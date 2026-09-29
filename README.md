@@ -1,5 +1,7 @@
 # Intra-annotator dynamics
 
+*Marharyta Shvets*
+
 Most training data records what people say about a text: a label, a summary, an answer.
 We argue for a new kind of data: **how one reader's own reading changes over time.**
 The same reader cuts and labels the same text again, months later, and the changes are not noise.
@@ -19,7 +21,7 @@ What we found:
 - So a record of one reader over time shows something that a single label,
   or a vote of many people, cannot show.
 
-This repo has all the data and code for our paper (under review).
+This repo has all the data and code for the paper (see [Citation](#citation)).
 One command runs everything and checks every number against the paper.
 
 ## Quick start
@@ -251,4 +253,14 @@ The texts are shared for academic research only.
 
 ## Citation
 
-Anonymous submission, under review.
+Marharyta Shvets. *Boundaries Agree, Labels Do Not: Human and LLM Self-Consistency in Reading Myth.* Preprint, 2026.
+(The arXiv link will be added here.)
+
+```bibtex
+@misc{shvets2026boundaries,
+  author = {Shvets, Marharyta},
+  title  = {Boundaries Agree, Labels Do Not: Human and LLM Self-Consistency in Reading Myth},
+  year   = {2026},
+  note   = {Preprint}
+}
+```
