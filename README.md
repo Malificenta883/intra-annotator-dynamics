@@ -21,7 +21,7 @@ What we found:
 - So a record of one reader over time shows something that a single label,
   or a vote of many people, cannot show.
 
-This repo has all the data and code for the paper (see [Citation](#citation)).
+This repo has the paper ([PDF](paper/Shvets2026_boundaries_labels.pdf)) and all its data and code.
 One command runs everything and checks every number against the paper.
 
 ## Quick start
@@ -57,6 +57,7 @@ Everything the scripts print is saved in `results/`.
 ## The files
 
 ```
+paper/                  the paper as PDF
 reproduce.py            runs every step and checks the numbers        (~170 lines)
 src/
   projection.py         turns one reading into labels per text unit   (~200 lines)
@@ -255,7 +256,7 @@ The texts are shared for academic research only.
 ## Citation
 
 Marharyta Shvets. *Boundaries Agree, Labels Do Not: Intra-Annotator Dynamics as a Kind of Training Data.* Preprint, 2026.
-(The arXiv link will be added here.)
+PDF: [`paper/Shvets2026_boundaries_labels.pdf`](paper/Shvets2026_boundaries_labels.pdf). (The arXiv link will be added here.)
 
 ```bibtex
 @misc{shvets2026boundaries,
