@@ -253,13 +253,13 @@ The texts are shared for academic research only.
 
 ## Citation
 
-Marharyta Shvets. *Boundaries Agree, Labels Do Not: Human and LLM Self-Consistency in Reading Myth.* Preprint, 2026.
+Marharyta Shvets. *Boundaries Agree, Labels Do Not: Intra-Annotator Dynamics as a Kind of Training Data.* Preprint, 2026.
 (The arXiv link will be added here.)
 
 ```bibtex
 @misc{shvets2026boundaries,
   author = {Shvets, Marharyta},
-  title  = {Boundaries Agree, Labels Do Not: Human and LLM Self-Consistency in Reading Myth},
+  title  = {Boundaries Agree, Labels Do Not: Intra-Annotator Dynamics as a Kind of Training Data},
   year   = {2026},
   note   = {Preprint}
 }
