@@ -226,6 +226,7 @@ and `seg_v5.txt` for texts split into blocks (Inanna & Enki).
 The block version also tells the model that gaps in numbering are lacunae,
 and it differs in small formatting (fewer colons and quotes).
 Both files are exactly as the models received them.
+One exception: Opus on Inanna's Descent got an earlier version; see `prompts/seg_v3_note.md`.
 
 ## The texts, and credits
 
