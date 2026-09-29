@@ -1,0 +1,1288 @@
+{
+  "run_id": "qwen_gudea_2026-08-11_r5",
+  "source": "qwen",
+  "corpus": "gudea",
+  "run_index": 5,
+  "annotated_date": "2026-08-11",
+  "fresh_session": true,
+  "prior_run_id": null,
+  "text_variant": "RIME 3/1.01.07, Cyl A composite (P431881)",
+  "model": {
+    "model_version": "qwen 3.8max thinking-mode (anonymous UI, 2026-08-11)",
+    "temperature": null,
+    "prompt_id": "seg_v4",
+    "sample_index": 5
+  },
+  "segments": [
+    {
+      "segment_id": "1",
+      "text_en": "Cosmic decision and divine selection",
+      "function": "preparation",
+      "cognitive_frame": [
+        "authority_invocation",
+        "activation_through_attraction"
+      ],
+      "transition_from": "preparation",
+      "transition_to": "preparation",
+      "markers": [
+        "destinies",
+        "heaven",
+        "earth",
+        "me",
+        "Enlil",
+        "Ningirsu",
+        "heart",
+        "Tigris"
+      ],
+      "anomaly_type": "temporal",
+      "risk_mode": "none",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "It was time to decide destinies in heaven and on earth,",
+        "Lagash had raised the head towards heaven in large ‘me’,",
+        "Enlil looked righteously upon lord Ningirsu.",
+        "The ‘heart’ of Enlil, it is the river Tigris, did it not bring sweet water?"
+      ],
+      "confidence": 1.0,
+      "line_start": 1,
+      "line_end": 9
+    },
+    {
+      "segment_id": "2",
+      "text_en": "Divine command and responsive brick",
+      "function": "preparation",
+      "cognitive_frame": [
+        "authority_invocation"
+      ],
+      "transition_from": "preparation",
+      "transition_to": "contact",
+      "markers": [
+        "house",
+        "king",
+        "me",
+        "Eninnu",
+        "governor",
+        "brick",
+        "destinies"
+      ],
+      "anomaly_type": "status",
+      "risk_mode": "none",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "To the house its king spoke:",
+        "“I will make the ‘me’ of Eninnu emerge in heaven and on earth.",
+        "The governor is wise, he shall pay attention.",
+        "The brick of deciding destinies lifted the head towards him,",
+        "to build the shiny house it raised its neck towards him."
+      ],
+      "confidence": 1.0,
+      "line_start": 10,
+      "line_end": 16
+    },
+    {
+      "segment_id": "3",
+      "text_en": "Gudea looks to Ningirsu",
+      "function": "contact",
+      "cognitive_frame": [
+        "authority_invocation",
+        "activation_through_attraction"
+      ],
+      "transition_from": "contact",
+      "transition_to": "negotiation",
+      "markers": [
+        "dark goat",
+        "king",
+        "Ningirsu",
+        "Gudea",
+        "Eninnu",
+        "me",
+        "eye"
+      ],
+      "anomaly_type": "status",
+      "risk_mode": "none",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "It was then, in a ‘dark goat’, that towards his king,",
+        "on the lord Ningirsu, Gudea looked.",
+        "“Build his house!,” he ordered him.",
+        "On Eninnu, whose ‘me’ is very large,",
+        "he (Ningirsu) directed his (Gudea’s) eye there."
+      ],
+      "confidence": 1.0,
+      "line_start": 17,
+      "line_end": 21
+    },
+    {
+      "segment_id": "4",
+      "text_en": "Gudea seeks dream interpretation",
+      "function": "negotiation",
+      "cognitive_frame": [
+        "caution",
+        "authority_invocation"
+      ],
+      "transition_from": "negotiation",
+      "transition_to": "contact",
+      "markers": [
+        "heart",
+        "dark goat",
+        "dream",
+        "mother",
+        "Nanše"
+      ],
+      "anomaly_type": "normative",
+      "risk_mode": "none",
+      "outcome_tag": "partial_transfer",
+      "evidence": [
+        "Gudea, his ‘heart’ is distant,",
+        "Of what my ‘dark goat’ has revealed to me,",
+        "its ‘heart’ I did not know.",
+        "Let me bring my dream to her, to my mother.",
+        "Nanše, my divine sister from Siraran,"
+      ],
+      "confidence": 1.0,
+      "line_start": 22,
+      "line_end": 32
+    },
+    {
+      "segment_id": "5",
+      "text_en": "Journey to Bagara and accepted prayer",
+      "function": "contact",
+      "cognitive_frame": [
+        "ritual_descent",
+        "authority_invocation",
+        "reciprocity"
+      ],
+      "transition_from": "contact",
+      "transition_to": "preparation",
+      "markers": [
+        "barge",
+        "Bagara",
+        "bread",
+        "water",
+        "Ningirsu",
+        "prayer"
+      ],
+      "anomaly_type": "spatial",
+      "risk_mode": "none",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "Did he not set foot on his barge?",
+        "After reaching Bagara—house hanging over the river,",
+        "he sacrificed bread, he poured out cold water,",
+        "Ningirsu, let me build your house for you,",
+        "His (Gudea’s) prayer was being heard."
+      ],
+      "confidence": 1.0,
+      "line_start": 33,
+      "line_end": 51
+    },
+    {
+      "segment_id": "6",
+      "text_en": "Week-festival and approach to Gatumdu",
+      "function": "preparation",
+      "cognitive_frame": [
+        "ritual_descent",
+        "reciprocity"
+      ],
+      "transition_from": "preparation",
+      "transition_to": "contact",
+      "markers": [
+        "Bagara",
+        "festival",
+        "bed",
+        "Gatumdu",
+        "bread",
+        "water"
+      ],
+      "anomaly_type": "temporal",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "In the House of Bagara he celebrated the week-festival.",
+        "The governor set up his bed in the house of Gatumdu.",
+        "He sacrificed bread, he poured out cold water.",
+        "He went to Shiny-Gatumdu,"
+      ],
+      "confidence": 1.0,
+      "line_start": 52,
+      "line_end": 56
+    },
+    {
+      "segment_id": "7",
+      "text_en": "Prayer to Gatumdu and reception",
+      "function": "contact",
+      "cognitive_frame": [
+        "reciprocity",
+        "authority_invocation"
+      ],
+      "transition_from": "contact",
+      "transition_to": "preparation",
+      "markers": [
+        "Gatumdu",
+        "mother",
+        "father",
+        "Lagash",
+        "prayer"
+      ],
+      "anomaly_type": "status",
+      "risk_mode": "none",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "My lady, child born by shiny An,",
+        "You are the lady, the mother, founder of Lagash.",
+        "I am a no-mother-haver, you are my mother.",
+        "I am a no-father-haver, you are my father.",
+        "Shiny-Gatumdu received from Gudea."
+      ],
+      "confidence": 1.0,
+      "line_start": 57,
+      "line_end": 89
+    },
+    {
+      "segment_id": "8",
+      "text_en": "Approach to Nina",
+      "function": "preparation",
+      "cognitive_frame": [
+        "ritual_descent",
+        "caution"
+      ],
+      "transition_from": "preparation",
+      "transition_to": "contact",
+      "markers": [
+        "barge",
+        "Nina",
+        "port",
+        "courtyard",
+        "bread",
+        "water",
+        "Nanše"
+      ],
+      "anomaly_type": "spatial",
+      "risk_mode": "none",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "Did he not place the foot on the barge?",
+        "To her city, Nina, he moored at the port of Nina.",
+        "In the courtyard of the deity of Siraran the governor raised the head to heaven,",
+        "he sacrificed bread, he poured out cold water.",
+        "He went to Nanše, he prayed to her:"
+      ],
+      "confidence": 1.0,
+      "line_start": 90,
+      "line_end": 93
+    },
+    {
+      "segment_id": "9",
+      "text_en": "Prayer and dream narration to Nanše",
+      "function": "contact",
+      "cognitive_frame": [
+        "authority_invocation",
+        "ritual_descent",
+        "caution"
+      ],
+      "transition_from": "contact",
+      "transition_to": "exchange",
+      "markers": [
+        "Nanše",
+        "dream",
+        "house",
+        "stylus",
+        "donkey"
+      ],
+      "anomaly_type": "sensory",
+      "risk_mode": "none",
+      "outcome_tag": "partial_transfer",
+      "evidence": [
+        "Nanše, large lady, lady of precious, precious, ‘me’.",
+        "Inside the dream there was one man, his greatness was like heaven,",
+        "He spoke to me about the building of his house.",
+        "She held a stylus of purified silver in the hand.",
+        "A donkey stallion, on the right side of my king, scratched the earth for me.”"
+      ],
+      "confidence": 1.0,
+      "line_start": 94,
+      "line_end": 123
+    },
+    {
+      "segment_id": "10",
+      "text_en": "Nanše interprets and instructs",
+      "function": "exchange",
+      "cognitive_frame": [
+        "authority_invocation",
+        "reciprocity"
+      ],
+      "transition_from": "exchange",
+      "transition_to": "preparation",
+      "markers": [
+        "dream",
+        "Ningirsu",
+        "Eninnu",
+        "brick",
+        "house"
+      ],
+      "anomaly_type": "normative",
+      "risk_mode": "none",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "My shepherd, let me, me interpret your dream for you.",
+        "it is surely my brother Ningirsu.",
+        "‘Build his shrine, the Eninnu!’ He ordered you.",
+        "that is surely the righteous brick of Eninnu.",
+        "He will reveal the plan of his house to you."
+      ],
+      "confidence": 1.0,
+      "line_start": 124,
+      "line_end": 172
+    },
+    {
+      "segment_id": "11",
+      "text_en": "Obedience and gift-bearing entry",
+      "function": "preparation",
+      "cognitive_frame": [
+        "reciprocity",
+        "authority_invocation"
+      ],
+      "transition_from": "preparation",
+      "transition_to": "stabilization",
+      "markers": [
+        "treasure house",
+        "emblem",
+        "harp",
+        "Ningirsu",
+        "Eninnu"
+      ],
+      "anomaly_type": "status",
+      "risk_mode": "none",
+      "outcome_tag": "partial_transfer",
+      "evidence": [
+        "He broke the seal of his treasure house,",
+        "He fashioned his beloved emblem for him,",
+        "With his beloved harp, ‘dragon of the land’,",
+        "to his king, lord Ningirsu,",
+        "in Eninnu, the white Anzu,"
+      ],
+      "confidence": 1.0,
+      "line_start": 173,
+      "line_end": 193
+    },
+    {
+      "segment_id": "12",
+      "text_en": "Joyful exit and preparation",
+      "function": "stabilization",
+      "cognitive_frame": [
+        "ritual_descent",
+        "caution"
+      ],
+      "transition_from": "stabilization",
+      "transition_to": "negotiation",
+      "markers": [
+        "Eninnu",
+        "days",
+        "nights",
+        "hills",
+        "accusations"
+      ],
+      "anomaly_type": "temporal",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "Joyfully he entered to him in the house.",
+        "Didn’t Gudea go out, brilliantly, from the shrine Eninnu?",
+        "he passed the days.",
+        "he passed the nights.",
+        "He flattened the hills, he returned accusations."
+      ],
+      "confidence": 1.0,
+      "line_start": 194,
+      "line_end": 199
+    },
+    {
+      "segment_id": "13",
+      "text_en": "Offering and complaint about the sign",
+      "function": "negotiation",
+      "cognitive_frame": [
+        "caution",
+        "boundary_testing"
+      ],
+      "transition_from": "negotiation",
+      "transition_to": "exchange",
+      "markers": [
+        "Šugalam",
+        "juniper",
+        "Ningirsu",
+        "house",
+        "sign",
+        "heart"
+      ],
+      "anomaly_type": "normative",
+      "risk_mode": "none",
+      "outcome_tag": "misread_signal",
+      "evidence": [
+        "To Šugalam, the terrible place, the place of rendering justice,",
+        "Juniper, the pure tree of the mountain he placed on the fire,",
+        "Ningirsu, I will build your house for you,",
+        "(but) my sign is my not.",
+        "your ‘heart’, surging, like the ocean,"
+      ],
+      "confidence": 1.0,
+      "line_start": 200,
+      "line_end": 225
+    },
+    {
+      "segment_id": "14",
+      "text_en": "Second dream and promised sign",
+      "function": "exchange",
+      "cognitive_frame": [
+        "authority_invocation",
+        "activation_through_attraction"
+      ],
+      "transition_from": "exchange",
+      "transition_to": "stabilization",
+      "markers": [
+        "sign",
+        "house",
+        "Eninnu",
+        "me",
+        "platform"
+      ],
+      "anomaly_type": "sensory",
+      "risk_mode": "none",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "I will surely give you the sign of the building of my house.",
+        "My house, Eninnu, founded by An,",
+        "I collected the fifty ‘me’.",
+        "when you place my platform for me,",
+        "I will teach you my sign.”"
+      ],
+      "confidence": 1.0,
+      "line_start": 226,
+      "line_end": 314
+    },
+    {
+      "segment_id": "15",
+      "text_en": "Awakening and good goat",
+      "function": "stabilization",
+      "cognitive_frame": [
+        "caution",
+        "ritual_descent"
+      ],
+      "transition_from": "stabilization",
+      "transition_to": "preparation",
+      "markers": [
+        "dream",
+        "goat",
+        "heart",
+        "Ningirsu",
+        "light"
+      ],
+      "anomaly_type": "temporal",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "Gudea rose, it was a dream.",
+        "He is stretching the hand in a white goat.",
+        "He struck the hand into the goat, his goat is good.",
+        "For Gudea, the ‘heart’ of Ningirsu",
+        "it is the light, that dawned on him."
+      ],
+      "confidence": 1.0,
+      "line_start": 315,
+      "line_end": 323
+    },
+    {
+      "segment_id": "16",
+      "text_en": "Social ordering before building",
+      "function": "preparation",
+      "cognitive_frame": [
+        "reciprocity",
+        "caution"
+      ],
+      "transition_from": "preparation",
+      "transition_to": "preparation",
+      "markers": [
+        "city",
+        "heart",
+        "mother",
+        "slave",
+        "accusations"
+      ],
+      "anomaly_type": "normative",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "The governor, in his city, like a solitary man",
+        "area-Lagash makes its ‘heart’ like one for him, like one mothers sons.",
+        "A mother does not accuse a son,",
+        "The slave whose arm was touched by wood,",
+        "to Gudea, no man brought accusations."
+      ],
+      "confidence": 1.0,
+      "line_start": 324,
+      "line_end": 340
+    },
+    {
+      "segment_id": "17",
+      "text_en": "Cleansing, brick omen, and divine assembly",
+      "function": "preparation",
+      "cognitive_frame": [
+        "ritual_descent",
+        "caution",
+        "authority_invocation"
+      ],
+      "transition_from": "preparation",
+      "transition_to": "preparation",
+      "markers": [
+        "city",
+        "fire",
+        "goat",
+        "mold",
+        "brick",
+        "Anunna"
+      ],
+      "anomaly_type": "normative",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "The governor cleansed the city,",
+        "he spun it with fire.",
+        "He laid down the goat by the box, the mold,",
+        "he made the brick appear by the goat,",
+        "The Anunna of area-Lagash,"
+      ],
+      "confidence": 1.0,
+      "line_start": 341,
+      "line_end": 364
+    },
+    {
+      "segment_id": "18",
+      "text_en": "Levy of lands and foreign assembly",
+      "function": "preparation",
+      "cognitive_frame": [
+        "authority_invocation",
+        "reciprocity"
+      ],
+      "transition_from": "preparation",
+      "transition_to": "preparation",
+      "markers": [
+        "levy",
+        "Ningirsu",
+        "Nanše",
+        "Elam",
+        "Magan",
+        "Meluhha"
+      ],
+      "anomaly_type": "status",
+      "risk_mode": "none",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "On that day, the governor arranged a levy in his land,",
+        "in the ‘tribe’ of Ningirsu,",
+        "The shiny u-(bird), it is the emblem of Nanše, went at its head.",
+        "Elam came to him from Elam.",
+        "Magan and Meluhha, from their land, submitted to him."
+      ],
+      "confidence": 1.0,
+      "line_start": 365,
+      "line_end": 396
+    },
+    {
+      "segment_id": "19",
+      "text_en": "Instructions for copper and wood",
+      "function": "preparation",
+      "cognitive_frame": [
+        "authority_invocation",
+        "reciprocity"
+      ],
+      "transition_from": "preparation",
+      "transition_to": "preparation",
+      "markers": [
+        "Ninzaga",
+        "copper",
+        "Ninsikila",
+        "oaks",
+        "ebony",
+        "Eninnu"
+      ],
+      "anomaly_type": "status",
+      "risk_mode": "none",
+      "outcome_tag": "partial_transfer",
+      "evidence": [
+        "He gave instructions to Ninzaga:",
+        "Its copper, like bringing much grain,",
+        "He gave instructions to Ninsikila:",
+        "large oaks, ebony, mangrove-wood,",
+        "to the governor, builder of the Eninnu,"
+      ],
+      "confidence": 1.0,
+      "line_start": 397,
+      "line_end": 404
+    },
+    {
+      "segment_id": "20",
+      "text_en": "Cedar procurement",
+      "function": "preparation",
+      "cognitive_frame": [
+        "authority_invocation",
+        "reciprocity"
+      ],
+      "transition_from": "preparation",
+      "transition_to": "preparation",
+      "markers": [
+        "cedar",
+        "Ningirsu",
+        "axe",
+        "Kasura"
+      ],
+      "anomaly_type": "spatial",
+      "risk_mode": "none",
+      "outcome_tag": "partial_transfer",
+      "evidence": [
+        "To the land of cedar, where no man enters,",
+        "for Gudea, the Lord Ningirsu",
+        "made way for him.",
+        "He cut down its cedars with the great axe.",
+        "by the mighty port of Kasura,"
+      ],
+      "confidence": 1.0,
+      "line_start": 405,
+      "line_end": 423
+    },
+    {
+      "segment_id": "21",
+      "text_en": "Stone and bitumen procurement",
+      "function": "preparation",
+      "cognitive_frame": [
+        "authority_invocation",
+        "reciprocity"
+      ],
+      "transition_from": "preparation",
+      "transition_to": "preparation",
+      "markers": [
+        "stone",
+        "boat",
+        "bitumen",
+        "gypsum",
+        "Madga"
+      ],
+      "anomaly_type": "spatial",
+      "risk_mode": "none",
+      "outcome_tag": "partial_transfer",
+      "evidence": [
+        "To the land of stone, where no man enters,",
+        "Its large stones, in blocks, he brought,",
+        "In a ‘ha'una’ boat, in a ‘nalu'a’ boat,",
+        "excavated(?) bitumen, ‘igiesir’ bitumen, gypsum,",
+        "from the mountain of Madga,"
+      ],
+      "confidence": 1.0,
+      "line_start": 424,
+      "line_end": 433
+    },
+    {
+      "segment_id": "22",
+      "text_en": "Precious materials and craftsmen",
+      "function": "preparation",
+      "cognitive_frame": [
+        "reciprocity",
+        "activation_through_attraction"
+      ],
+      "transition_from": "preparation",
+      "transition_to": "preparation",
+      "markers": [
+        "copper",
+        "gold",
+        "silver",
+        "carneol",
+        "stonecutter",
+        "Eninnu"
+      ],
+      "anomaly_type": "sensory",
+      "risk_mode": "none",
+      "outcome_tag": "partial_transfer",
+      "evidence": [
+        "From Kimaš, the mountain of copper,",
+        "for the governor, gold from its mountain,",
+        "Purified silver is being brought down for Gudea from its mountain.",
+        "Carneol, like flowers, from Meluhha,",
+        "He will build Eninnu with precious stones, sitting with the stonecutter,"
+      ],
+      "confidence": 1.0,
+      "line_start": 434,
+      "line_end": 457
+    },
+    {
+      "segment_id": "23",
+      "text_en": "Vigil and divine wisdom",
+      "function": "preparation",
+      "cognitive_frame": [
+        "caution",
+        "authority_invocation"
+      ],
+      "transition_from": "preparation",
+      "transition_to": "preparation",
+      "markers": [
+        "sleep",
+        "Nanše",
+        "Enlil",
+        "Nisaba",
+        "Enki"
+      ],
+      "anomaly_type": "temporal",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "he does not allow sleep to enter during midnight,",
+        "It is him, looked righteously at by Nanše,",
+        "It is him, the governor chosen in the ‘heart’ by Enlil,",
+        "Nisaba, the house of wisdom,",
+        "Enki made the plan of the house right for him."
+      ],
+      "confidence": 1.0,
+      "line_start": 458,
+      "line_end": 470
+    },
+    {
+      "segment_id": "24",
+      "text_en": "Radiance and measuring",
+      "function": "preparation",
+      "cognitive_frame": [
+        "authority_invocation",
+        "activation_through_attraction"
+      ],
+      "transition_from": "preparation",
+      "transition_to": "contact",
+      "markers": [
+        "house",
+        "radiance",
+        "me",
+        "Eninnu",
+        "field",
+        "border"
+      ],
+      "anomaly_type": "spatial",
+      "risk_mode": "none",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "(To) the house, its radiance reaches heaven,",
+        "its ‘me’ embraces heaven and earth,",
+        "to Eninnu, the white Anzu,",
+        "the field was right, he measured it,",
+        "he placed sticks on its border, he knew himself."
+      ],
+      "confidence": 1.0,
+      "line_start": 471,
+      "line_end": 481
+    },
+    {
+      "segment_id": "25",
+      "text_en": "Morning prayer and entry",
+      "function": "contact",
+      "cognitive_frame": [
+        "ritual_descent",
+        "authority_invocation"
+      ],
+      "transition_from": "contact",
+      "transition_to": "exchange",
+      "markers": [
+        "morning",
+        "prayer",
+        "Baragirnunata",
+        "heart",
+        "Utu",
+        "oxen",
+        "goats"
+      ],
+      "anomaly_type": "temporal",
+      "risk_mode": "none",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "It is morning, he went in prayer to the old house.",
+        "Gudea, at Baragirnunata",
+        "calmed his ‘heart’.",
+        "Utu went up for him in abundance.",
+        "he sacrificed perfect oxen and perfect goats,"
+      ],
+      "confidence": 1.0,
+      "line_start": 482,
+      "line_end": 491
+    },
+    {
+      "segment_id": "26",
+      "text_en": "Brick of deciding destinies",
+      "function": "exchange",
+      "cognitive_frame": [
+        "ritual_descent",
+        "authority_invocation",
+        "reciprocity"
+      ],
+      "transition_from": "exchange",
+      "transition_to": "stabilization",
+      "markers": [
+        "basket",
+        "mold",
+        "hoe",
+        "clay",
+        "brick",
+        "Utu"
+      ],
+      "anomaly_type": "normative",
+      "risk_mode": "none",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "The shiny basket, the righteous mold of deciding destinies,",
+        "He tied a sinew to the hoe, he went with raised head.",
+        "Gudea placed clay in the mold.",
+        "The emergence of the brick of the house was placed.",
+        "Utu was pleased with it."
+      ],
+      "confidence": 1.0,
+      "line_start": 492,
+      "line_end": 526
+    },
+    {
+      "segment_id": "27",
+      "text_en": "Brick enters house and vigilant concern",
+      "function": "stabilization",
+      "cognitive_frame": [
+        "authority_invocation",
+        "caution"
+      ],
+      "transition_from": "stabilization",
+      "transition_to": "exchange",
+      "markers": [
+        "brick",
+        "house",
+        "Nanna",
+        "Nisaba",
+        "heart",
+        "goat"
+      ],
+      "anomaly_type": "sensory",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "The brick raising its head to the house,",
+        "it is the cow of Nanna, whose pen is shining,",
+        "it is Nisaba whose ‘heart’ knows counting.",
+        "(That) his king’s ‘heart’ is the light (of the vision) dawned (on him).",
+        "he stretched his hand in the goat, his goat was good."
+      ],
+      "confidence": 1.0,
+      "line_start": 527,
+      "line_end": 543
+    },
+    {
+      "segment_id": "28",
+      "text_en": "Omens and divine foundation",
+      "function": "exchange",
+      "cognitive_frame": [
+        "authority_invocation",
+        "reciprocity"
+      ],
+      "transition_from": "exchange",
+      "transition_to": "exchange",
+      "markers": [
+        "grain",
+        "wave",
+        "Eninnu",
+        "flax",
+        "me",
+        "Enki",
+        "Gatumdu"
+      ],
+      "anomaly_type": "temporal",
+      "risk_mode": "none",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "He gave grain to the wave, its appearance was straight.",
+        "the separation of Eninnu from heaven and earth,",
+        "He threw the flax, he perfected the me.",
+        "Enki places the foundation of the house,",
+        "The mother of Lagash, Shiny-Gatumdu,"
+      ],
+      "confidence": 1.0,
+      "line_start": 544,
+      "line_end": 561
+    },
+    {
+      "segment_id": "29",
+      "text_en": "Foundation basket and seven blessings",
+      "function": "exchange",
+      "cognitive_frame": [
+        "authority_invocation",
+        "activation_through_attraction"
+      ],
+      "transition_from": "exchange",
+      "transition_to": "stabilization",
+      "markers": [
+        "basket",
+        "foundation",
+        "flax",
+        "Anzu",
+        "Eninnu"
+      ],
+      "anomaly_type": "sensory",
+      "risk_mode": "none",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "he placed the basket of the house, a shiny crown, on the head,",
+        "he placed the foundation, the wall touched the ground,",
+        "It is flax in bloom placed on the top.",
+        "It is Anzu spreading its wings over the calfs.",
+        "It is Eninnu—Moon passing (through)—filling the land."
+      ],
+      "confidence": 1.0,
+      "line_start": 562,
+      "line_end": 577
+    },
+    {
+      "segment_id": "30",
+      "text_en": "Door and house made mountain",
+      "function": "stabilization",
+      "cognitive_frame": [
+        "activation_through_attraction",
+        "authority_invocation"
+      ],
+      "transition_from": "stabilization",
+      "transition_to": "stabilization",
+      "markers": [
+        "door",
+        "house",
+        "mountain",
+        "cloud",
+        "cedar",
+        "mast",
+        "Abzu"
+      ],
+      "anomaly_type": "spatial",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "They place the wood of the door.",
+        "They make the house grow like a mountain.",
+        "They make it float in the middle of the heaven like a cloud.",
+        "They placed white cedar to be admired in the ‘cedar hall’.",
+        "he placed the very large mast, the foundation, its Abzu, in the ground."
+      ],
+      "confidence": 1.0,
+      "line_start": 578,
+      "line_end": 604
+    },
+    {
+      "segment_id": "31",
+      "text_en": "Foundation and stones set",
+      "function": "stabilization",
+      "cognitive_frame": [
+        "authority_invocation",
+        "reciprocity"
+      ],
+      "transition_from": "stabilization",
+      "transition_to": "stabilization",
+      "markers": [
+        "Enki",
+        "Eninnu",
+        "mast",
+        "stones",
+        "seventh day"
+      ],
+      "anomaly_type": "temporal",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "With Enki, in E'angurraka,",
+        "He made Eninnu firm as a mast.",
+        "He planted sweet Asal trees in his city,",
+        "His large stones brought in their blocks,",
+        "on the seventh day he seized them in the house."
+      ],
+      "confidence": 1.0,
+      "line_start": 605,
+      "line_end": 621
+    },
+    {
+      "segment_id": "32",
+      "text_en": "Named stones",
+      "function": "stabilization",
+      "cognitive_frame": [
+        "authority_invocation",
+        "activation_through_attraction"
+      ],
+      "transition_from": "stabilization",
+      "transition_to": "stabilization",
+      "markers": [
+        "stone",
+        "name",
+        "Ningirsu",
+        "Gudea",
+        "heart"
+      ],
+      "anomaly_type": "status",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "A stone on its side he laid down as a basin,",
+        "as name of that stone he named.",
+        "‘the King, roaring storm of Enlil,",
+        "Lord Ningirsu, Gudea,",
+        "in his shiny ‘heart’ called him,’"
+      ],
+      "confidence": 1.0,
+      "line_start": 622,
+      "line_end": 654
+    },
+    {
+      "segment_id": "33",
+      "text_en": "Righteous house admired",
+      "function": "stabilization",
+      "cognitive_frame": [
+        "activation_through_attraction",
+        "authority_invocation"
+      ],
+      "transition_from": "stabilization",
+      "transition_to": "stabilization",
+      "markers": [
+        "house",
+        "righteousness",
+        "crown",
+        "new moon",
+        "lapis",
+        "dubla"
+      ],
+      "anomaly_type": "sensory",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "He build the house of his king with righteousness.",
+        "Raising the crown like the new moon,",
+        "made it grow like a mountain of Lapis,",
+        "Its ‘dubla’ stood (there) like an aurochs,",
+        "like the new moon standing in heaven,"
+      ],
+      "confidence": 1.0,
+      "line_start": 655,
+      "line_end": 672
+    },
+    {
+      "segment_id": "34",
+      "text_en": "Sanctuary images and meal",
+      "function": "stabilization",
+      "cognitive_frame": [
+        "activation_through_attraction",
+        "authority_invocation"
+      ],
+      "transition_from": "stabilization",
+      "transition_to": "stabilization",
+      "markers": [
+        "dubla",
+        "gate",
+        "arrow",
+        "rainbow",
+        "meal"
+      ],
+      "anomaly_type": "sensory",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "The ‘dubla’ that stand in the house,",
+        "(Going out) from the gate, ‘entrance of the king’,",
+        "The arrow leaning against the gate,",
+        "it is the rainbow leaning against heaven.",
+        "They prepare the meal in the great sanctuary,"
+      ],
+      "confidence": 1.0,
+      "line_start": 673,
+      "line_end": 697
+    },
+    {
+      "segment_id": "35",
+      "text_en": "War-door heroes and dead warriors",
+      "function": "stabilization",
+      "cognitive_frame": [
+        "authority_invocation",
+        "caution"
+      ],
+      "transition_from": "stabilization",
+      "transition_to": "stabilization",
+      "markers": [
+        "war-door",
+        "heroes",
+        "dragon",
+        "date palm",
+        "lion",
+        "warriors"
+      ],
+      "anomaly_type": "status",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "At the war-door of the inner room, where the weapon hang,",
+        "the seven heroes he seizes there.",
+        "the dragon and the date palm he seizes there.",
+        "a lion, the fear of the gods,",
+        "Because they are dead warriors,"
+      ],
+      "confidence": 1.0,
+      "line_start": 698,
+      "line_end": 721
+    },
+    {
+      "segment_id": "36",
+      "text_en": "Cedar doors and fittings",
+      "function": "stabilization",
+      "cognitive_frame": [
+        "activation_through_attraction",
+        "authority_invocation"
+      ],
+      "transition_from": "stabilization",
+      "transition_to": "stabilization",
+      "markers": [
+        "cedar doors",
+        "Eninnu",
+        "bolt",
+        "roof nail",
+        "rope"
+      ],
+      "anomaly_type": "sensory",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "The cedar doors standing in the house,",
+        "Eninnu, its lock, a bison(?),",
+        "from its bolt, Muššatur (and) Mušhuš",
+        "They fastened the shiny roof nail in the house,",
+        "They stretched out the shiny (measuring) rope in the door,"
+      ],
+      "confidence": 1.0,
+      "line_start": 722,
+      "line_end": 733
+    },
+    {
+      "segment_id": "37",
+      "text_en": "Tying, fear, and chosen clay",
+      "function": "stabilization",
+      "cognitive_frame": [
+        "authority_invocation",
+        "caution"
+      ],
+      "transition_from": "stabilization",
+      "transition_to": "stabilization",
+      "markers": [
+        "Keš",
+        "Aratta",
+        "fear",
+        "Eninnu",
+        "silver",
+        "clay"
+      ],
+      "anomaly_type": "sensory",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "Keš and Aratta give instructions at the tying (together) of the house:",
+        "The fear of Eninnu, on all the lands,",
+        "like a garment, it covered.",
+        "The house, founded by Anu with purified silver,",
+        "The clay of Eninnu, mixed clay,"
+      ],
+      "confidence": 1.0,
+      "line_start": 734,
+      "line_end": 758
+    },
+    {
+      "segment_id": "38",
+      "text_en": "Provisions and rooms",
+      "function": "stabilization",
+      "cognitive_frame": [
+        "reciprocity",
+        "activation_through_attraction"
+      ],
+      "transition_from": "stabilization",
+      "transition_to": "stabilization",
+      "markers": [
+        "cow pen",
+        "oil",
+        "milk",
+        "wine-cellar",
+        "treasury",
+        "courtyard"
+      ],
+      "anomaly_type": "sensory",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "From the cow pen,",
+        "oil deliveries, milk deliveries,",
+        "The wine-cellar(?)",
+        "In the treasury, precious stones, silver, tin.",
+        "The courtyard, shiny prayers, ‘sim’ and ‘ala’ (sounds)."
+      ],
+      "confidence": 1.0,
+      "line_start": 759,
+      "line_end": 780
+    },
+    {
+      "segment_id": "39",
+      "text_en": "Stones, funerary, birds",
+      "function": "stabilization",
+      "cognitive_frame": [
+        "authority_invocation",
+        "activation_through_attraction"
+      ],
+      "transition_from": "stabilization",
+      "transition_to": "return",
+      "markers": [
+        "seven stones",
+        "house",
+        "funerary offerings",
+        "battlements",
+        "pigeons"
+      ],
+      "anomaly_type": "sensory",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "The seven stones seized by the house,",
+        "are things counselling with its king.",
+        "The house of funerary offerings,",
+        "The high battlements",
+        "where pigeons dwell,"
+      ],
+      "confidence": 1.0,
+      "line_start": 781,
+      "line_end": 793
+    },
+    {
+      "segment_id": "40",
+      "text_en": "Final praise and foundation",
+      "function": "return",
+      "cognitive_frame": [
+        "authority_invocation",
+        "reciprocity"
+      ],
+      "transition_from": "return",
+      "transition_to": "return",
+      "markers": [
+        "fear",
+        "praise",
+        "house",
+        "king",
+        "Gudea",
+        "Ningirsu"
+      ],
+      "anomaly_type": "status",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "The big fear of the house",
+        "Its praise",
+        "The house (was) built in joy by its king.",
+        "Gudea, governor of Lagash,",
+        "Ningirsu be praised!"
+      ],
+      "confidence": 1.0,
+      "line_start": 794,
+      "line_end": 814
+    }
+  ]
+}

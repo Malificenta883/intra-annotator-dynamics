@@ -1,0 +1,9 @@
+inanna_enki opus boundary 0.755 label 0.851 gap -0.095
+inanna_descent opus boundary 0.790 label 0.630 gap +0.160
+gudea opus boundary 0.681 label 0.616 gap +0.065
+inanna_enki gemini boundary 0.571 label 0.749 gap -0.178
+inanna_descent gemini boundary 0.633 label 0.601 gap +0.032
+gudea gemini boundary 0.788 label 0.497 gap +0.291
+inanna_enki qwen boundary 0.882 label 0.798 gap +0.084
+inanna_descent qwen boundary 0.769 label 0.663 gap +0.106
+gudea qwen boundary 0.663 label 0.586 gap +0.077

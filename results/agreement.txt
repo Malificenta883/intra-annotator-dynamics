@@ -1,0 +1,5 @@
+raw label agreement between runs (mean over the 3 pairs of a triple):
+  inanna_enki      human 0.38   opus far-3 0.85   gemini far-3 0.54   qwen far-3 0.77
+  inanna_descent   human 0.33   opus far-3 0.55   gemini far-3 0.46   qwen far-3 0.61
+  gudea            human 0.32   opus far-3 0.56   gemini far-3 0.48   qwen far-3 0.59
+  range: human 0.32-0.38, model far-3 triples 0.46-0.85

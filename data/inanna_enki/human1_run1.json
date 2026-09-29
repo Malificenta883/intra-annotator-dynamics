@@ -1,0 +1,409 @@
+{
+  "run_id": "human1_inanna_enki_2025-10-10_r1",
+  "source": "human1",
+  "corpus": "inanna_enki",
+  "run_index": 1,
+  "annotated_date": "2025-10-10",
+  "prior_run_id": null,
+  "text_variant": "ETCSL_1.3.1_EN",
+  "prompt_id": "seg_v5",
+  "segments": [
+    {
+      "segment_id": "inanna_enki_001",
+      "text_en": "Inanna prepares to meet Enki",
+      "function": "preparation",
+      "cognitive_frame": [
+        "activation_through_attraction"
+      ],
+      "transition_from": "preparation",
+      "transition_to": "contact",
+      "markers": [
+        "crown",
+        "genitals",
+        "remarkable",
+        "beautiful",
+        "shinning",
+        "shimmering"
+      ],
+      "anomaly_type": "sensory",
+      "risk_mode": "seduction",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "She praised herself..  I myself shall speak coaxingly to Enki"
+      ],
+      "line_start": 7,
+      "line_end": 33
+    },
+    {
+      "segment_id": "inanna_enki_002",
+      "text_en": "Post-coital neglect triggers imprint",
+      "function": "disruption",
+      "cognitive_frame": [
+        "none"
+      ],
+      "transition_from": "contact",
+      "transition_to": "negotiation",
+      "markers": [
+        "after",
+        "neglect",
+        "sex"
+      ],
+      "anomaly_type": "normative",
+      "risk_mode": "trust_violation",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "It shall never escape me that I have been neglected by him who has had sex"
+      ],
+      "line_start": 55,
+      "line_end": 59
+    },
+    {
+      "segment_id": "inanna_enki_003",
+      "text_en": "Enki anticipates Inanna’s enterprise",
+      "function": "preparation",
+      "cognitive_frame": [
+        "none"
+      ],
+      "transition_from": "stabilization",
+      "transition_to": "negotiation",
+      "markers": [
+        "know",
+        "enterprise",
+        "intention"
+      ],
+      "anomaly_type": "status",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "Enki .. knew all about her enterprise"
+      ],
+      "line_start": 60,
+      "line_end": 69
+    },
+    {
+      "segment_id": "inanna_enki_004",
+      "text_en": "Banquet as equiprobable event between intention and realization",
+      "function": "contact",
+      "cognitive_frame": [
+        "ritual_descent"
+      ],
+      "transition_from": "exchange",
+      "transition_to": "negotiation",
+      "markers": [
+        "instructions",
+        "enter",
+        "eat",
+        "drink",
+        "beer"
+      ],
+      "anomaly_type": "normative",
+      "risk_mode": "overload",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "..Isimud the minister followed his master's instructions..Enki and Inana were drinking beer together.. the two of them started a competition"
+      ],
+      "line_start": 73,
+      "line_end": 102
+    },
+    {
+      "segment_id": "inanna_enki_005",
+      "text_en": "Enki grants the me to Inanna",
+      "function": "exchange",
+      "cognitive_frame": [
+        "authority_invocation"
+      ],
+      "transition_from": "contact",
+      "transition_to": "stabilization",
+      "markers": [
+        "give",
+        "receive",
+        "power"
+      ],
+      "anomaly_type": "status",
+      "risk_mode": "none",
+      "outcome_tag": "partial_transfer",
+      "evidence": [
+        "I will give them to holy Inana..Holy Inana received"
+      ],
+      "line_start": 138,
+      "line_end": 142
+    },
+    {
+      "segment_id": "inanna_enki_006",
+      "text_en": "Inanna takes the me",
+      "function": "exchange",
+      "cognitive_frame": [
+        "authority_invocation"
+      ],
+      "transition_from": "stabilization",
+      "transition_to": "negotiation",
+      "markers": [
+        "has given",
+        "he",
+        "me"
+      ],
+      "anomaly_type": "normative",
+      "risk_mode": "none",
+      "outcome_tag": "misread_signal",
+      "evidence": [
+        "He has given me"
+      ],
+      "line_start": 143,
+      "line_end": 278
+    },
+    {
+      "segment_id": "inanna_enki_007",
+      "text_en": "Enki found out the absence of the me",
+      "function": "disruption",
+      "cognitive_frame": [
+        "boundary_testing"
+      ],
+      "transition_from": "exchange",
+      "transition_to": "return",
+      "markers": [
+        "where",
+        "depart",
+        "drunk",
+        "reach"
+      ],
+      "anomaly_type": "status",
+      "risk_mode": "overload",
+      "outcome_tag": "channel_blocked",
+      "evidence": [
+        "she would not yet depart from here.. can I still reach her?.. Where are the.."
+      ],
+      "line_start": 279,
+      "line_end": 310
+    },
+    {
+      "segment_id": "inanna_enki_008",
+      "text_en": "Enki interacts with Inanna's huluppu tree, redistributes via bird (heaven) and fish (subterranean waters)",
+      "function": "stabilization",
+      "cognitive_frame": [
+        "none"
+      ],
+      "transition_from": "-",
+      "transition_to": "-",
+      "markers": [
+        "halub_tree",
+        "bird_heaven",
+        "fish_subterranean",
+        "frog"
+      ],
+      "anomaly_type": "spatial",
+      "risk_mode": "overload",
+      "outcome_tag": "-",
+      "evidence": [
+        "He received  the halub tree... He gave  to bird of heaven",
+        "to fish of subterranean waters"
+      ],
+      "line_start": 311,
+      "line_end": 331
+    },
+    {
+      "segment_id": "inanna_enki_009",
+      "text_en": "Iterative attempts to retrieve the Boat of Heaven and divine powers (collapsed as cyclicity)",
+      "function": "disruption",
+      "cognitive_frame": [
+        "trickster"
+      ],
+      "transition_from": "negotiation",
+      "transition_to": "disruption",
+      "markers": [
+        "take away",
+        "very serious",
+        "countermanded",
+        "falsely",
+        "water",
+        "boat of heaven",
+        "eridug",
+        "unug",
+        "lahama",
+        "fish_subterranean"
+      ],
+      "anomaly_type": "normative",
+      "risk_mode": "coercion",
+      "outcome_tag": "misread_signal (per cycle), unresolved until arrival to Unug",
+      "evidence": [
+        "Go now! The enkum are to take the Boat of Heaven away from her!",
+        "Go now! The fifty giants of Eridug are to take the Boat of Heaven away from her!",
+        "Go now! The fifty lahama of the subterranean waters are to take the Boat of Heaven away from her!",
+        "Go now! All the great fish together ... are to take the Boat of Heaven away from her!",
+        "the guardians of Unug are to take the Boat of Heaven away from her!",
+        "The Id-surungal ... are to take the Boat of Heaven away from her!"
+      ],
+      "line_start": 343,
+      "line_end": 559
+    },
+    {
+      "segment_id": "inanna_enki_010",
+      "text_en": "Rejoicing in the city",
+      "function": "contact",
+      "cognitive_frame": [
+        "reciprocity"
+      ],
+      "transition_from": "exchange",
+      "transition_to": "stabilization",
+      "markers": [
+        "rejoy",
+        "people",
+        "well",
+        "maiden's house",
+        "present"
+      ],
+      "anomaly_type": "spatial",
+      "risk_mode": "overload",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "there will be rejoicing in our city….it passed magnificently along the street...the divine powers which had been presented to her"
+      ],
+      "line_start": 563,
+      "line_end": 607
+    },
+    {
+      "segment_id": "inanna_enki_011",
+      "text_en": "Enki feels admiration",
+      "function": "return",
+      "cognitive_frame": [
+        "authority_invocation"
+      ],
+      "transition_from": "negotiation",
+      "transition_to": "stabilization",
+      "markers": [
+        "admiration"
+      ],
+      "anomaly_type": "status",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "Where has the Boat of Heaven reached now?  Go now",
+        "...... Admiration"
+      ],
+      "line_start": 608,
+      "line_end": 617
+    },
+    {
+      "segment_id": "inanna_enki_012",
+      "text_en": "List of discrete universal powers",
+      "function": "stabilization",
+      "cognitive_frame": [
+        "reciprocity"
+      ],
+      "transition_from": "exchange",
+      "transition_to": "preparation",
+      "markers": [
+        "bring",
+        "with"
+      ],
+      "anomaly_type": "spatial",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "You have brought with you…"
+      ],
+      "line_start": 621,
+      "line_end": 728
+    },
+    {
+      "segment_id": "inanna_enki_013",
+      "text_en": "Ritual of giving names to subjects",
+      "function": "contact",
+      "cognitive_frame": [
+        "authority_invocation"
+      ],
+      "transition_from": "disruption",
+      "transition_to": "stabilization",
+      "markers": [
+        "Fifty shekels",
+        "less",
+        "name",
+        "place"
+      ],
+      "anomaly_type": "spatial",
+      "risk_mode": "none",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "the trader said Fifty shekels but when he brought  it there was less",
+        "she named that place with the name"
+      ],
+      "line_start": 737,
+      "line_end": 747
+    },
+    {
+      "segment_id": "inanna_enki_014",
+      "text_en": "Enki establishing something for the woman",
+      "function": "return",
+      "cognitive_frame": [
+        "reciprocity"
+      ],
+      "transition_from": "exchange",
+      "transition_to": "contact",
+      "markers": [
+        "establish",
+        "woman"
+      ],
+      "anomaly_type": "sensory",
+      "risk_mode": "none",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "I will establish ...... in my abzu for the woman."
+      ],
+      "line_start": 748,
+      "line_end": 750
+    },
+    {
+      "segment_id": "inanna_enki_015",
+      "text_en": "Inanna loses her divine powers",
+      "function": "return",
+      "cognitive_frame": [
+        "boundary_testing"
+      ],
+      "transition_from": "negotiation",
+      "transition_to": "stabilization",
+      "markers": [
+        "enter",
+        "take",
+        "from"
+      ],
+      "anomaly_type": "normative",
+      "risk_mode": "none",
+      "outcome_tag": "channel_blocked",
+      "evidence": [
+        "Why has this one now entered here? ...... taking the divine powers from me?"
+      ],
+      "line_start": 751,
+      "line_end": 752
+    },
+    {
+      "segment_id": "inanna_enki_016",
+      "text_en": "A festival for Enki and Inanna",
+      "function": "stabilization",
+      "cognitive_frame": [
+        "reciprocity"
+      ],
+      "transition_from": "preparation",
+      "transition_to": "contact",
+      "markers": [
+        "festival",
+        "citizen",
+        "Inanna",
+        "Enki",
+        "restore"
+      ],
+      "anomaly_type": "sensory",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "pass their time..May the citizens of your city",
+        "Inana",
+        "the citizens of Unug",
+        "live ......! And as for you",
+        "Enki -- may ...... your city",
+        "Eridug ......",
+        "and has indeed restored"
+      ],
+      "line_start": 753,
+      "line_end": 764
+    }
+  ]
+}

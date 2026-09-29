@@ -1,0 +1,56 @@
+A segment is defined as the smallest contiguous text unit in which the dominant function and cognitive frame remain stable. A new segment begins when there is a detectable shift in intention, interaction mode, epistemic position, or symbolic risk. Analyze each predefined text segment and identify its main cognitive functions, narrative motives, and dynamic transitions. Work within the controlled vocabulary below. For each segment, output both primary semantic labels and secondary relational metrics that reflect processual change (emotional, epistemic, or symbolic).
+Fields for each segment
+segment_id — number of the episode, as a string (1, 2, ...), sequential.
+
+text_en — a short name of the scene only. Do NOT include line numbers here.
+
+function — what the scene is doing in the exchange experience. Choose exactly ONE preparation  contact  exchange  disruption  negotiation  stabilization  return.
+
+cognitive_frame — which cognitive regime is activated. An array of one or more of activation_through_attraction  authority_invocation  trickster  ritual_descent  boundary_testing  reciprocity  caution.
+
+transition_from  transition_to — phase change; each must be exactly one value from the same list as function.
+
+markers — an array of the most obvious, repetitive key-words, e.g. crown, radiance, sacred body, banquet, beer, me, boat.
+
+anomaly_type — the reason for disturbance to the attention system. Choose ONE sensory  status  temporal  spatial  normative.
+
+risk_mode — mode of distortion. Choose ONE seduction  deception  overload  coercion  none.
+
+outcome_tag — the result of the step. Choose ONE channel_opened  channel_blocked  partial_transfer  misread_signal  stabilization.
+
+evidence — an array of 3–5 direct quotations from the text that best capture the underlying action or intention. Do not summarize the story. Do not invent events not present in the text. Gaps in numbering are lacunae (missing text); do not treat them as errors, just segment the blocks that are present.
+
+line_start  line_end — The text is given as numbered blocks (range<TAB>text). Segment boundaries must fall on block boundaries; line_start/line_end of each segment = the block range(s) it covers.
+
+confidence — a number, scored strictly by the rule below.
+Confidence Scoring Rule — calculate strictly based on evidence matching
+
+1.0 Direct, literal presence of Markers in the Evidence text. Unambiguous mapping to Function.
+0.75 Markers are implicitly present (synonymsmetaphors) but the Cognitive_Frame is logically indisputable.
+0.50 Forced categorization due to ambiguous text; multiple Function or Risk_Mode options could equally apply.
+
+Output ONLY a JSON array of segment objects — nothing before or after it. Do not output any header, metadata, run_id, source, or date. Only the array. Follow this schema per element
+[
+  {
+    segment_id 1,
+    text_en Cosmic decision and divine selection,
+    function preparation,
+    cognitive_frame [authority_invocation, activation_through_attraction],
+    transition_from preparation,
+    transition_to preparation,
+    markers [destinies, heaven, earth, me, Enlil, Ningirsu, righteous gaze],
+    anomaly_type temporal,
+    risk_mode none,
+    outcome_tag channel_opened,
+    evidence [
+      It was time to decide destinies in heaven and on earth,
+      Lagash had raised the head towards heaven in large 'me',
+      Enlil looked righteously upon lord Ningirsu
+    ],
+    confidence 0.95,
+    line_start 1,
+    line_end 9
+  }
+]
+
+Analyze in one attempt, without further commentary. From line 1 to the end. Do not skip lines and do not overlap them; segments must be represented step by step, contiguous and in order.

@@ -1,0 +1,40 @@
+data: /sessions/rcw-011kwvuiinfk4evrsw47xdvf/mnt/AI_project/paper_repo/data
+==========================================================================
+METRIC A  --  transferable event-grammar (leave-one-corpus-out)
+gain = bits/transition the transferred grammar beats the marginal baseline
+==========================================================================
+
+[human1]  runs per corpus: gudea=3, enki=3, descent=3
+    held-out gudea    n_trans= 74  gain=+0.043 bits  p_perm=0.006*   (in-corpus ceiling=+0.261)
+    held-out enki     n_trans= 45  gain=+0.014 bits  p_perm=0.228    (in-corpus ceiling=+0.510)
+    held-out descent  n_trans= 55  gain=+0.062 bits  p_perm=0.490    (in-corpus ceiling=+0.175)
+    --> mean transfer gain = +0.040 bits/transition
+
+[opus]  runs per corpus: gudea=10, enki=10, descent=10
+    held-out gudea    n_trans=287  gain=+0.441 bits  p_perm=0.001*   (in-corpus ceiling=+0.547)
+    held-out enki     n_trans=202  gain=+0.522 bits  p_perm=0.001*   (in-corpus ceiling=+1.052)
+    held-out descent  n_trans=349  gain=+0.357 bits  p_perm=0.001*   (in-corpus ceiling=+0.541)
+    --> mean transfer gain = +0.440 bits/transition
+
+[gemini]  runs per corpus: gudea=10, enki=10, descent=10
+    held-out gudea    n_trans=220  gain=-0.237 bits  p_perm=0.002*   (in-corpus ceiling=+0.366)
+    held-out enki     n_trans= 91  gain=+0.419 bits  p_perm=0.001*   (in-corpus ceiling=+1.306)
+    held-out descent  n_trans= 94  gain=+0.213 bits  p_perm=0.001*   (in-corpus ceiling=+0.725)
+    --> mean transfer gain = +0.132 bits/transition
+
+[qwen]  runs per corpus: gudea=10, enki=10, descent=10
+    held-out gudea    n_trans=417  gain=+0.258 bits  p_perm=0.001*   (in-corpus ceiling=+0.346)
+    held-out enki     n_trans=387  gain=+0.453 bits  p_perm=0.001*   (in-corpus ceiling=+0.990)
+    held-out descent  n_trans=291  gain=-0.215 bits  p_perm=0.001*   (in-corpus ceiling=+0.611)
+    --> mean transfer gain = +0.165 bits/transition
+
+--------------------------------------------------------------------------
+RANK by mean transfer gain (higher = more portable event-grammar):
+  1. opus     +0.440 bits
+  2. qwen     +0.165 bits
+  3. gemini   +0.132 bits
+  4. human1   +0.040 bits  <- human
+--------------------------------------------------------------------------
+Reading: gain>0 and p<0.05 => the grammar learned on OTHER myths predicts
+this myth's transitions above chance = portable structure (world-model-like).
+Stability is NOT used anywhere here -- this is generalization, not repeatability.

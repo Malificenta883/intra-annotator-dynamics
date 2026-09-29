@@ -1,0 +1,11 @@
+corpus         reader  triples |   lag0 obs/exp  share> |     ±1 obs/exp  share> | ±1/exp ratio: min median max
+inanna_descent human1        1 |      8/6.4        100% |     30/12.0       100% | 2.50 2.50 2.50
+inanna_descent opus        120 |   8576/1752.6     100% |   2344/3745.4       5% | 0.14 0.62 1.09
+inanna_descent gemini      120 |   2224/396.1      100% |   1622/1023.5      85% | 0.40 1.56 3.05
+inanna_descent qwen        120 |   7680/1304.9     100% |   1047/3023.6       0% | 0.00 0.33 0.69
+
+Table 4 summary (models = all triples of opus, gemini, qwen):
+corpus          human same-place/exp*  human 1-step/same   models: lowest same-place/exp  models: max 1-step/same
+inanna_descent                   1.24               3.75                            2.66                     1.86
+* here with 200 draws, like the models; Table 4 gives the human value from the main mode (1,000 draws).
+wrote lag_test_inanna_descent_triples.json

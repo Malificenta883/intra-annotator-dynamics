@@ -1,0 +1,11 @@
+corpus         reader  triples |   lag0 obs/exp  share> |     ±1 obs/exp  share> | ±1/exp ratio: min median max
+inanna_enki    human1        1 |     20/8.1        100% |     16/15.3       100% | 1.04 1.04 1.04
+inanna_enki    opus        120 |   3712/492.0      100% |   1464/1319.7      61% | 0.25 1.15 2.38
+inanna_enki    gemini      120 |   2736/204.9      100% |   1259/833.0       87% | 0.00 1.69 3.01
+inanna_enki    qwen        120 |  12016/2456.4     100% |   1104/5400.8       0% | 0.00 0.18 0.58
+
+Table 4 summary (models = all triples of opus, gemini, qwen):
+corpus          human same-place/exp*  human 1-step/same   models: lowest same-place/exp  models: max 1-step/same
+inanna_enki                      2.48               0.80                            3.83                     1.00
+* here with 200 draws, like the models; Table 4 gives the human value from the main mode (1,000 draws).
+wrote lag_test_inanna_enki_triples.json

@@ -1,0 +1,218 @@
+{
+  "run_id": "gemini_inanna_enki_2026-07-09_r3",
+  "source": "gemini",
+  "corpus": "inanna_enki",
+  "run_index": 3,
+  "annotated_date": "2026-07-09",
+  "fresh_session": true,
+  "prior_run_id": null,
+  "text_variant": "ETCSL_1.3.1_EN",
+  "model": {
+    "model_version": "gemini_pro_standard (anonymous UI)",
+    "temperature": null,
+    "prompt_id": "seg_v5",
+    "sample_index": 3
+  },
+  "segments": [
+    {
+      "segment_id": "1",
+      "text_en": "Inana's Preparation and Intention",
+      "function": "preparation",
+      "cognitive_frame": [
+        "activation_through_attraction"
+      ],
+      "transition_from": "preparation",
+      "transition_to": "contact",
+      "markers": [
+        "desert crown",
+        "genitals",
+        "abzu",
+        "Eridug",
+        "coaxingly"
+      ],
+      "anomaly_type": "sensory",
+      "risk_mode": "seduction",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "She put the cu-gura, the desert crown, on her head.",
+        "I shall direct my steps to Enki, to the abzu",
+        "I myself shall speak coaxingly to Enki"
+      ],
+      "confidence": 1.0,
+      "line_start": 7,
+      "line_end": 59
+    },
+    {
+      "segment_id": "2",
+      "text_en": "Journey to Eridug and Enki's Welcome",
+      "function": "contact",
+      "cognitive_frame": [
+        "boundary_testing"
+      ],
+      "transition_from": "preparation",
+      "transition_to": "exchange",
+      "markers": [
+        "abzu",
+        "Eridug",
+        "beer",
+        "Lions Gate",
+        "table"
+      ],
+      "anomaly_type": "spatial",
+      "risk_mode": "none",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "directed her steps all by herself towards Enki's abzu in Eridug.",
+        "Pour beer for her, in front of the Lions Gate",
+        "He welcomed holy Inana at the holy table"
+      ],
+      "confidence": 1.0,
+      "line_start": 60,
+      "line_end": 98
+    },
+    {
+      "segment_id": "3",
+      "text_en": "The Drinking Banquet and Transfer of the Me",
+      "function": "exchange",
+      "cognitive_frame": [
+        "reciprocity",
+        "trickster"
+      ],
+      "transition_from": "contact",
+      "transition_to": "disruption",
+      "markers": [
+        "drinking beer",
+        "bronze vessels",
+        "daughter",
+        "give them to holy Inana",
+        "He has given me"
+      ],
+      "anomaly_type": "normative",
+      "risk_mode": "overload",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "Enki and Inana were drinking beer together in the abzu",
+        "I will give them to holy Inana, my daughter",
+        "He has given me the craft of the carpenter."
+      ],
+      "confidence": 1.0,
+      "line_start": 99,
+      "line_end": 278
+    },
+    {
+      "segment_id": "4",
+      "text_en": "Enki's Awakening and Realization of Loss",
+      "function": "disruption",
+      "cognitive_frame": [
+        "caution",
+        "authority_invocation"
+      ],
+      "transition_from": "exchange",
+      "transition_to": "negotiation",
+      "markers": [
+        "effects of the beer cleared",
+        "Where are",
+        "crown",
+        "kingship",
+        "given them to his daughter"
+      ],
+      "anomaly_type": "status",
+      "risk_mode": "deception",
+      "outcome_tag": "channel_blocked",
+      "evidence": [
+        "As the effects of the beer cleared from him who had drunk beer",
+        "Where are the noble sceptre, the staff and crook",
+        "My master has given them to his daughter."
+      ],
+      "confidence": 1.0,
+      "line_start": 279,
+      "line_end": 331
+    },
+    {
+      "segment_id": "5",
+      "text_en": "The Pursuit and Defense of the Boat of Heaven",
+      "function": "negotiation",
+      "cognitive_frame": [
+        "boundary_testing",
+        "authority_invocation"
+      ],
+      "transition_from": "disruption",
+      "transition_to": "return",
+      "markers": [
+        "Boat of Heaven",
+        "take the Boat",
+        "countermanded",
+        "falsely",
+        "seize hold"
+      ],
+      "anomaly_type": "normative",
+      "risk_mode": "coercion",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "The enkum are to take the Boat of Heaven away from her!",
+        "How could my father have changed what he said to me?",
+        "he got the fifty giants of Eridug to seize hold of the Boat of Heaven.",
+        "Water has never touched your hand, water has never touched your feet!"
+      ],
+      "confidence": 1.0,
+      "line_start": 343,
+      "line_end": 559
+    },
+    {
+      "segment_id": "6",
+      "text_en": "Arrival in Unug and Unloading the Powers",
+      "function": "return",
+      "cognitive_frame": [
+        "authority_invocation"
+      ],
+      "transition_from": "negotiation",
+      "transition_to": "stabilization",
+      "markers": [
+        "Gate of Joy",
+        "Unug Kulaba",
+        "rejoicing",
+        "brought with you",
+        "divine powers"
+      ],
+      "anomaly_type": "spatial",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "today you have brought the Boat of Heaven to the Gate of Joy, to Unug Kulaba.",
+        "The people shall stand in the street full of awe.",
+        "You have brought with you the noble dress, you have brought with you shepherdship"
+      ],
+      "confidence": 1.0,
+      "line_start": 563,
+      "line_end": 747
+    },
+    {
+      "segment_id": "7",
+      "text_en": "Final Blessing and Reconciliation",
+      "function": "stabilization",
+      "cognitive_frame": [
+        "reciprocity",
+        "authority_invocation"
+      ],
+      "transition_from": "return",
+      "transition_to": "stabilization",
+      "markers": [
+        "name of my power",
+        "abzu",
+        "festival",
+        "restored"
+      ],
+      "anomaly_type": "status",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "In the name of my power, in the name of my abzu, I will establish",
+        "May the citizens of your city, Inana, the citizens of Unug, live",
+        "and has indeed restored"
+      ],
+      "confidence": 1.0,
+      "line_start": 748,
+      "line_end": 764
+    }
+  ]
+}

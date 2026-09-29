@@ -1,0 +1,9 @@
+corpus         reader sel     pass   M   A   B   C   D |  A obs/exp    p>    p< |  nb obs/exp    p>    p< |  zones o/e    p>    p<
+inanna_enki    human1 own       15   8   1   0   5   1 |    2/2.0   0.750 0.750 |    1/1.5    0.821 0.536 |    4/2.5   0.252 0.989
+inanna_enki    opus   far       11   0   3   2   3   3 |    3/3.0   0.733 0.733 |    2/1.0    0.259 0.954 |    2/2.8   0.828 0.568
+inanna_enki    opus   medoid    11   2   5   1   2   1 |    5/4.6   0.526 0.974 |    1/0.8    0.614 0.810 |    6/4.1   0.258 0.904
+inanna_enki    gemini far        7   4   1   0   2   0 |    4/2.6   0.104 0.996 |    1/1.0    0.704 0.741 |    4/5.3   0.876 0.417
+inanna_enki    gemini medoid     4   2   2   0   0   0 |    3/1.0   0.047 0.997 |    1/0.3    0.333 1.000 |    0/2.1   1.000 0.117
+inanna_enki    qwen   far       17   2   7   1   1   6 |    9/7.8   0.145 0.991 |    1/0.3    0.306 0.972 |    0/3.7   1.000 0.095
+inanna_enki    qwen   medoid    16   2   6   1   1   6 |    8/7.3   0.273 0.982 |    1/0.3    0.306 0.972 |    0/2.4   1.000 0.237
+wrote passage_inspection_inanna_enki.json passages_human_inanna_enki.md

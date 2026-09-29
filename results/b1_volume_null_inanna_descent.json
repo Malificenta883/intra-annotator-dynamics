@@ -1,0 +1,191 @@
+{
+ "inanna_descent/human1/own": {
+  "K": 3,
+  "N": 405,
+  "V": 475,
+  "n_full": 140,
+  "var_obs": 0.05429389151382742,
+  "single": {
+   "n_full_expected": 167.774,
+   "ratio": 0.780831849444318,
+   "p": 1.0,
+   "n_pieces": 475,
+   "mean_piece_len": 1.0
+  },
+  "pieces": {
+   "n_full_expected": 153.395,
+   "ratio": 0.8807697147086347,
+   "p": 0.8751248751248751,
+   "n_pieces": 30,
+   "mean_piece_len": 15.833333333333334
+  },
+  "old_b1_ratio": 1.5727659649285164,
+  "runs": [
+   1,
+   2,
+   3
+  ]
+ },
+ "inanna_descent/opus/far": {
+  "K": 3,
+  "N": 405,
+  "V": 284,
+  "n_full": 21,
+  "var_obs": 0.034800928042811805,
+  "single": {
+   "n_full_expected": 70.115,
+   "ratio": 0.5635761978078497,
+   "p": 1.0,
+   "n_pieces": 284,
+   "mean_piece_len": 1.0
+  },
+  "pieces": {
+   "n_full_expected": 64.867,
+   "ratio": 0.5911426183634393,
+   "p": 1.0,
+   "n_pieces": 30,
+   "mean_piece_len": 9.466666666666667
+  },
+  "old_b1_ratio": 0.9573018123999998,
+  "runs": [
+   3,
+   7,
+   9
+  ]
+ },
+ "inanna_descent/opus/medoid": {
+  "K": 3,
+  "N": 405,
+  "V": 202,
+  "n_full": 8,
+  "var_obs": 0.03216718318684481,
+  "single": {
+   "n_full_expected": 38.614,
+   "ratio": 0.6569425264521502,
+   "p": 1.0,
+   "n_pieces": 202,
+   "mean_piece_len": 1.0
+  },
+  "pieces": {
+   "n_full_expected": 34.786,
+   "ratio": 0.6863858660537159,
+   "p": 1.0,
+   "n_pieces": 20,
+   "mean_piece_len": 10.1
+  },
+  "old_b1_ratio": 0.8356899110690498,
+  "runs": [
+   3,
+   5,
+   2
+  ]
+ },
+ "inanna_descent/gemini/far": {
+  "K": 3,
+  "N": 405,
+  "V": 350,
+  "n_full": 38,
+  "var_obs": 0.033890497722230684,
+  "single": {
+   "n_full_expected": 100.334,
+   "ratio": 0.4977092244032917,
+   "p": 1.0,
+   "n_pieces": 350,
+   "mean_piece_len": 1.0
+  },
+  "pieces": {
+   "n_full_expected": 91.025,
+   "ratio": 0.5380712570680334,
+   "p": 1.0,
+   "n_pieces": 17,
+   "mean_piece_len": 20.58823529411765
+  },
+  "old_b1_ratio": 0.9852384381392952,
+  "runs": [
+   8,
+   10,
+   3
+  ]
+ },
+ "inanna_descent/gemini/medoid": {
+  "K": 3,
+  "N": 405,
+  "V": 236,
+  "n_full": 32,
+  "var_obs": 0.04457586072583794,
+  "single": {
+   "n_full_expected": 50.757,
+   "ratio": 0.8124234463994223,
+   "p": 1.0,
+   "n_pieces": 236,
+   "mean_piece_len": 1.0
+  },
+  "pieces": {
+   "n_full_expected": 44.194,
+   "ratio": 0.86949007374889,
+   "p": 0.7702297702297702,
+   "n_pieces": 11,
+   "mean_piece_len": 21.454545454545453
+  },
+  "old_b1_ratio": 1.40028871432072,
+  "runs": [
+   8,
+   5,
+   2
+  ]
+ },
+ "inanna_descent/qwen/far": {
+  "K": 3,
+  "N": 405,
+  "V": 235,
+  "n_full": 0,
+  "var_obs": 0.027062270317871638,
+  "single": {
+   "n_full_expected": 50.501,
+   "ratio": 0.4940894167036373,
+   "p": 1.0,
+   "n_pieces": 235,
+   "mean_piece_len": 1.0
+  },
+  "pieces": {
+   "n_full_expected": 45.867,
+   "ratio": 0.5181429807449257,
+   "p": 1.0,
+   "n_pieces": 17,
+   "mean_piece_len": 13.823529411764707
+  },
+  "old_b1_ratio": 0.7803596428542985,
+  "runs": [
+   3,
+   8,
+   1
+  ]
+ },
+ "inanna_descent/qwen/medoid": {
+  "K": 3,
+  "N": 405,
+  "V": 157,
+  "n_full": 0,
+  "var_obs": 0.02637538315636175,
+  "single": {
+   "n_full_expected": 24.428,
+   "ratio": 0.6630487573114835,
+   "p": 1.0,
+   "n_pieces": 157,
+   "mean_piece_len": 1.0
+  },
+  "pieces": {
+   "n_full_expected": 20.936,
+   "ratio": 0.6966022926187657,
+   "p": 0.997002997002997,
+   "n_pieces": 8,
+   "mean_piece_len": 19.625
+  },
+  "old_b1_ratio": 0.7531475672497977,
+  "runs": [
+   10,
+   5,
+   1
+  ]
+ }
+}

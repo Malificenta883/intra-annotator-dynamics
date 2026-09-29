@@ -1,0 +1,212 @@
+{
+  "run_id": "gemini_inanna_enki_2026-07-09_r9",
+  "source": "gemini",
+  "corpus": "inanna_enki",
+  "run_index": 9,
+  "annotated_date": "2026-07-09",
+  "fresh_session": true,
+  "prior_run_id": null,
+  "text_variant": "ETCSL_1.3.1_EN",
+  "model": {
+    "model_version": "gemini_pro_standard (anonymous UI)",
+    "temperature": null,
+    "prompt_id": "seg_v5",
+    "sample_index": 9
+  },
+  "segments": [
+    {
+      "segment_id": "1",
+      "text_en": "Inana's Preparation and Intent",
+      "function": "preparation",
+      "cognitive_frame": [
+        "activation_through_attraction",
+        "boundary_testing"
+      ],
+      "transition_from": "stabilization",
+      "transition_to": "contact",
+      "markers": [
+        "genitals",
+        "abzu",
+        "coaxingly"
+      ],
+      "anomaly_type": "normative",
+      "risk_mode": "seduction",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "She praised herself, full of delight at her genitals",
+        "I myself shall speak coaxingly to Enki, in the abzu",
+        "I, Inana, personally intend to go to the abzu"
+      ],
+      "confidence": 1.0,
+      "line_start": 7,
+      "line_end": 59
+    },
+    {
+      "segment_id": "2",
+      "text_en": "Enki's Welcome and the Feast",
+      "function": "contact",
+      "cognitive_frame": [
+        "caution",
+        "reciprocity"
+      ],
+      "transition_from": "preparation",
+      "transition_to": "exchange",
+      "markers": [
+        "abzu",
+        "girlfriend's house",
+        "beer"
+      ],
+      "anomaly_type": "spatial",
+      "risk_mode": "none",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "directed her steps all by herself towards Enki's abzu",
+        "make her feel as if she is in her girlfriend's house",
+        "They poured cool refreshing water for her, and they gave her beer to drink"
+      ],
+      "confidence": 1.0,
+      "line_start": 60,
+      "line_end": 98
+    },
+    {
+      "segment_id": "3",
+      "text_en": "The Banquet and Transfer of Powers",
+      "function": "exchange",
+      "cognitive_frame": [
+        "ritual_descent",
+        "reciprocity"
+      ],
+      "transition_from": "contact",
+      "transition_to": "disruption",
+      "markers": [
+        "beer",
+        "abzu",
+        "received",
+        "craft"
+      ],
+      "anomaly_type": "status",
+      "risk_mode": "overload",
+      "outcome_tag": "partial_transfer",
+      "evidence": [
+        "Enki and Inana were drinking beer together in the abzu",
+        "Holy Inana received heroism, power, wickedness, righteousness",
+        "He has given me the craft of the carpenter"
+      ],
+      "confidence": 1.0,
+      "line_start": 99,
+      "line_end": 278
+    },
+    {
+      "segment_id": "4",
+      "text_en": "Enki Wakens and Realizes the Loss",
+      "function": "disruption",
+      "cognitive_frame": [
+        "trickster",
+        "boundary_testing"
+      ],
+      "transition_from": "exchange",
+      "transition_to": "negotiation",
+      "markers": [
+        "beer cleared",
+        "office of en priest",
+        "given them to his daughter"
+      ],
+      "anomaly_type": "status",
+      "risk_mode": "deception",
+      "outcome_tag": "misread_signal",
+      "evidence": [
+        "As the effects of the beer cleared from him",
+        "Where are the office of en priest, the office of lagal priest",
+        "My master has given them to his daughter"
+      ],
+      "confidence": 1.0,
+      "line_start": 279,
+      "line_end": 331
+    },
+    {
+      "segment_id": "5",
+      "text_en": "The Chase on the River",
+      "function": "negotiation",
+      "cognitive_frame": [
+        "authority_invocation",
+        "boundary_testing"
+      ],
+      "transition_from": "disruption",
+      "transition_to": "return",
+      "markers": [
+        "Boat of Heaven",
+        "countermanded",
+        "altered his promise",
+        "divine powers"
+      ],
+      "anomaly_type": "spatial",
+      "risk_mode": "coercion",
+      "outcome_tag": "channel_blocked",
+      "evidence": [
+        "The enkum are to take the Boat of Heaven away from her!",
+        "His important words cannot be countermanded",
+        "How could he have altered his promise as far as I am concerned?",
+        "So Inana got hold again of the divine powers which had been presented to her"
+      ],
+      "confidence": 1.0,
+      "line_start": 343,
+      "line_end": 559
+    },
+    {
+      "segment_id": "6",
+      "text_en": "Arrival at Uruk",
+      "function": "return",
+      "cognitive_frame": [
+        "authority_invocation",
+        "reciprocity"
+      ],
+      "transition_from": "negotiation",
+      "transition_to": "stabilization",
+      "markers": [
+        "Boat of Heaven",
+        "Gate of Joy",
+        "awe",
+        "slaughter bulls"
+      ],
+      "anomaly_type": "spatial",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "today you have brought the Boat of Heaven to the Gate of Joy, to Unug Kulaba",
+        "The people shall stand in the street full of awe",
+        "The king shall slaughter bulls, shall sacrifice sheep",
+        "It reached the maiden's house"
+      ],
+      "confidence": 1.0,
+      "line_start": 563,
+      "line_end": 607
+    },
+    {
+      "segment_id": "7",
+      "text_en": "Enki's Acknowledgment and the Final Settlement",
+      "function": "stabilization",
+      "cognitive_frame": [
+        "authority_invocation",
+        "reciprocity"
+      ],
+      "transition_from": "return",
+      "transition_to": "stabilization",
+      "markers": [
+        "brought with you",
+        "name of my power",
+        "citizens of your city"
+      ],
+      "anomaly_type": "normative",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "Inana, you have brought with you the office of en priest",
+        "In the name of my power, in the name of my abzu, I will establish",
+        "May the citizens of your city, Inana, the citizens of Unug, live"
+      ],
+      "confidence": 1.0,
+      "line_start": 608,
+      "line_end": 764
+    }
+  ]
+}

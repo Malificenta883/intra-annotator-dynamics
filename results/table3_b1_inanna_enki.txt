@@ -1,0 +1,9 @@
+corpus         reader sel        N    V  all3 | single: exp  ratio      p | pieces: exp  ratio      p |  old B1
+inanna_enki    human1 own       71   77    21 |        25.8   0.79  0.988 |        24.2   0.85  0.845 |    1.90
+inanna_enki    opus   far       71   18     3 |         1.9   1.13  0.270 |         1.8   1.14  0.252 |    0.79
+inanna_enki    opus   medoid    71   16     1 |         1.5   0.94  0.840 |         1.4   0.95  0.796 |    0.57
+inanna_enki    gemini far       71   49     0 |        11.9   0.39  1.000 |        10.6   0.42  1.000 |    0.76
+inanna_enki    gemini medoid    71   37     0 |         7.3   0.55  1.000 |         5.7   0.61  1.000 |    0.88
+inanna_enki    qwen   far       71   27     6 |         4.1   1.16  0.128 |         4.0   1.16  0.123 |    1.08
+inanna_enki    qwen   medoid    71   26     6 |         3.8   1.18  0.088 |         3.7   1.19  0.081 |    1.08
+wrote b1_volume_null_inanna_enki.json

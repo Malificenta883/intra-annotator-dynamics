@@ -1,0 +1,17 @@
+data: /sessions/rcw-011kwvuiinfk4evrsw47xdvf/mnt/AI_project/paper_repo/data
+
+A TRANSFER at equalized n=3, per held-out myth (gain bits/transition, permutation p):
+
+[far-3]
+source                  gudea                enki             descent     mean
+human1       +0.043 (p=0.005)    +0.014 (p=0.197)    +0.062 (p=0.496)   +0.040  <- human
+opus         +0.258 (p=0.001)    +0.541 (p=0.001)    +0.207 (p=0.001)   +0.335
+gemini       -0.242 (p=0.507)    +0.276 (p=0.001)    +0.246 (p=0.002)   +0.094
+qwen         +0.346 (p=0.001)    +0.315 (p=0.001)    +0.120 (p=0.001)   +0.260
+
+[med-3]
+source                  gudea                enki             descent     mean
+human1       +0.043 (p=0.002)    +0.014 (p=0.243)    +0.062 (p=0.459)   +0.040  <- human
+opus         +0.585 (p=0.001)    +0.311 (p=0.001)    +0.293 (p=0.001)   +0.396
+gemini       -0.133 (p=0.044)    +0.429 (p=0.001)    +0.348 (p=0.001)   +0.214
+qwen         +0.435 (p=0.001)    +0.325 (p=0.001)    -0.020 (p=0.001)   +0.247

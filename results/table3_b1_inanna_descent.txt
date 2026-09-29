@@ -1,0 +1,9 @@
+corpus         reader sel        N    V  all3 | single: exp  ratio      p | pieces: exp  ratio      p |  old B1
+inanna_descent human1 own      405  475   140 |       167.8   0.78  1.000 |       153.4   0.88  0.875 |    1.57
+inanna_descent opus   far      405  284    21 |        70.1   0.56  1.000 |        64.9   0.59  1.000 |    0.96
+inanna_descent opus   medoid   405  202     8 |        38.6   0.66  1.000 |        34.8   0.69  1.000 |    0.84
+inanna_descent gemini far      405  350    38 |       100.3   0.50  1.000 |        91.0   0.54  1.000 |    0.99
+inanna_descent gemini medoid   405  236    32 |        50.8   0.81  1.000 |        44.2   0.87  0.770 |    1.40
+inanna_descent qwen   far      405  235     0 |        50.5   0.49  1.000 |        45.9   0.52  1.000 |    0.78
+inanna_descent qwen   medoid   405  157     0 |        24.4   0.66  1.000 |        20.9   0.70  0.997 |    0.75
+wrote b1_volume_null_inanna_descent.json

@@ -1,0 +1,338 @@
+{
+ "inanna_enki/human1/own": {
+  "runs": [
+   1,
+   2,
+   3
+  ],
+  "obs": 0.4444444444444444,
+  "null": 0.29555555555555735,
+  "gap": 0.14888888888888707,
+  "p": 0.2677322677322677,
+  "n_event": 9,
+  "n_flip": 35,
+  "line_share": 0.3142857142857143,
+  "n_fragments": 7,
+  "n_units_majority": 50
+ },
+ "inanna_enki/opus/far": {
+  "runs": [
+   6,
+   8,
+   10
+  ],
+  "obs": 0.75,
+  "null": 0.24425,
+  "gap": 0.50575,
+  "p": 0.002997002997002997,
+  "n_event": 8,
+  "n_flip": 12,
+  "line_share": 0.8333333333333334,
+  "n_fragments": 9,
+  "n_units_majority": 68
+ },
+ "inanna_enki/opus/medoid": {
+  "runs": [
+   6,
+   4,
+   10
+  ],
+  "obs": 0.7,
+  "null": 0.23289999999999908,
+  "gap": 0.46710000000000085,
+  "p": 0.002997002997002997,
+  "n_event": 10,
+  "n_flip": 14,
+  "line_share": 0.7857142857142857,
+  "n_fragments": 11,
+  "n_units_majority": 70
+ },
+ "inanna_enki/gemini/far": {
+  "runs": [
+   5,
+   7,
+   10
+  ],
+  "obs": 0.7142857142857143,
+  "null": 0.3042857142857134,
+  "gap": 0.4100000000000009,
+  "p": 0.022977022977022976,
+  "n_event": 7,
+  "n_flip": 49,
+  "line_share": 0.8775510204081632,
+  "n_fragments": 7,
+  "n_units_majority": 71
+ },
+ "inanna_enki/gemini/medoid": {
+  "runs": [
+   5,
+   3,
+   8
+  ],
+  "obs": 1.0,
+  "null": 0.29,
+  "gap": 0.71,
+  "p": 0.004995004995004995,
+  "n_event": 4,
+  "n_flip": 37,
+  "line_share": 1.0,
+  "n_fragments": 7,
+  "n_units_majority": 71
+ },
+ "inanna_enki/qwen/far": {
+  "runs": [
+   4,
+   10,
+   3
+  ],
+  "obs": 0.9090909090909091,
+  "null": 0.20954545454545664,
+  "gap": 0.6995454545454525,
+  "p": 0.000999000999000999,
+  "n_event": 11,
+  "n_flip": 15,
+  "line_share": 0.9333333333333333,
+  "n_fragments": 21,
+  "n_units_majority": 65
+ },
+ "inanna_enki/qwen/medoid": {
+  "runs": [
+   4,
+   10,
+   9
+  ],
+  "obs": 0.9,
+  "null": 0.2022999999999993,
+  "gap": 0.6977000000000007,
+  "p": 0.000999000999000999,
+  "n_event": 10,
+  "n_flip": 14,
+  "line_share": 0.9285714285714286,
+  "n_fragments": 21,
+  "n_units_majority": 65
+ },
+ "inanna_descent/human1/own": {
+  "runs": [
+   1,
+   2,
+   3
+  ],
+  "obs": 0.5,
+  "null": 0.34100000000000014,
+  "gap": 0.15899999999999986,
+  "p": 0.1938061938061938,
+  "n_event": 12,
+  "n_flip": 195,
+  "line_share": 0.4512820512820513,
+  "n_fragments": 10,
+  "n_units_majority": 265
+ },
+ "inanna_descent/opus/far": {
+  "runs": [
+   3,
+   7,
+   9
+  ],
+  "obs": 0.6521739130434783,
+  "null": 0.29813043478260814,
+  "gap": 0.3540434782608701,
+  "p": 0.000999000999000999,
+  "n_event": 23,
+  "n_flip": 242,
+  "line_share": 0.7520661157024794,
+  "n_fragments": 27,
+  "n_units_majority": 384
+ },
+ "inanna_descent/opus/medoid": {
+  "runs": [
+   3,
+   5,
+   2
+  ],
+  "obs": 0.4375,
+  "null": 0.304125,
+  "gap": 0.13337500000000002,
+  "p": 0.1938061938061938,
+  "n_event": 16,
+  "n_flip": 186,
+  "line_share": 0.478494623655914,
+  "n_fragments": 22,
+  "n_units_majority": 397
+ },
+ "inanna_descent/gemini/far": {
+  "runs": [
+   8,
+   10,
+   3
+  ],
+  "obs": 0.6666666666666666,
+  "null": 0.3097777777777791,
+  "gap": 0.35688888888888753,
+  "p": 0.025974025974025976,
+  "n_event": 9,
+  "n_flip": 274,
+  "line_share": 0.6605839416058394,
+  "n_fragments": 10,
+  "n_units_majority": 367
+ },
+ "inanna_descent/gemini/medoid": {
+  "runs": [
+   8,
+   5,
+   2
+  ],
+  "obs": 0.6666666666666666,
+  "null": 0.30433333333333523,
+  "gap": 0.3623333333333314,
+  "p": 0.02197802197802198,
+  "n_event": 9,
+  "n_flip": 172,
+  "line_share": 0.7674418604651163,
+  "n_fragments": 8,
+  "n_units_majority": 373
+ },
+ "inanna_descent/qwen/far": {
+  "runs": [
+   3,
+   8,
+   1
+  ],
+  "obs": 0.2857142857142857,
+  "null": 0.2755714285714283,
+  "gap": 0.010142857142857398,
+  "p": 0.5814185814185814,
+  "n_event": 14,
+  "n_flip": 235,
+  "line_share": 0.13191489361702127,
+  "n_fragments": 17,
+  "n_units_majority": 405
+ },
+ "inanna_descent/qwen/medoid": {
+  "runs": [
+   10,
+   5,
+   1
+  ],
+  "obs": 0.375,
+  "null": 0.274125,
+  "gap": 0.10087499999999999,
+  "p": 0.37362637362637363,
+  "n_event": 8,
+  "n_flip": 157,
+  "line_share": 0.37579617834394907,
+  "n_fragments": 17,
+  "n_units_majority": 405
+ },
+ "gudea/human1/own": {
+  "runs": [
+   1,
+   2,
+   3
+  ],
+  "obs": 0.6,
+  "null": 0.2543999999999997,
+  "gap": 0.3456000000000003,
+  "p": 0.002997002997002997,
+  "n_event": 20,
+  "n_flip": 458,
+  "line_share": 0.574235807860262,
+  "n_fragments": 13,
+  "n_units_majority": 559
+ },
+ "gudea/opus/far": {
+  "runs": [
+   6,
+   7,
+   10
+  ],
+  "obs": 0.7857142857142857,
+  "null": 0.3265714285714278,
+  "gap": 0.4591428571428579,
+  "p": 0.000999000999000999,
+  "n_event": 14,
+  "n_flip": 486,
+  "line_share": 0.8827160493827161,
+  "n_fragments": 11,
+  "n_units_majority": 772
+ },
+ "gudea/opus/medoid": {
+  "runs": [
+   6,
+   4,
+   9
+  ],
+  "obs": 0.7333333333333333,
+  "null": 0.27213333333333406,
+  "gap": 0.4611999999999992,
+  "p": 0.000999000999000999,
+  "n_event": 15,
+  "n_flip": 440,
+  "line_share": 0.8386363636363636,
+  "n_fragments": 15,
+  "n_units_majority": 793
+ },
+ "gudea/gemini/far": {
+  "runs": [
+   2,
+   5,
+   6
+  ],
+  "obs": 0.5,
+  "null": 0.30957142857142805,
+  "gap": 0.19042857142857195,
+  "p": 0.11188811188811189,
+  "n_event": 14,
+  "n_flip": 440,
+  "line_share": 0.39090909090909093,
+  "n_fragments": 16,
+  "n_units_majority": 683
+ },
+ "gudea/gemini/medoid": {
+  "runs": [
+   2,
+   9,
+   7
+  ],
+  "obs": 0.6,
+  "null": 0.29340000000000044,
+  "gap": 0.30659999999999954,
+  "p": 0.03396603396603397,
+  "n_event": 10,
+  "n_flip": 378,
+  "line_share": 0.6216931216931217,
+  "n_fragments": 16,
+  "n_units_majority": 753
+ },
+ "gudea/qwen/far": {
+  "runs": [
+   1,
+   7,
+   3
+  ],
+  "obs": 0.5238095238095238,
+  "null": 0.31219047619047735,
+  "gap": 0.21161904761904649,
+  "p": 0.03596403596403597,
+  "n_event": 21,
+  "n_flip": 343,
+  "line_share": 0.5947521865889213,
+  "n_fragments": 15,
+  "n_units_majority": 701
+ },
+ "gudea/qwen/medoid": {
+  "runs": [
+   6,
+   4,
+   3
+  ],
+  "obs": 0.631578947368421,
+  "null": 0.2808421052631601,
+  "gap": 0.3507368421052609,
+  "p": 0.003996003996003996,
+  "n_event": 19,
+  "n_flip": 303,
+  "line_share": 0.7227722772277227,
+  "n_fragments": 18,
+  "n_units_majority": 744
+ }
+}

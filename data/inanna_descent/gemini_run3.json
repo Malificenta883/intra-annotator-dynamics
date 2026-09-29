@@ -1,0 +1,396 @@
+{
+  "run_id": "gemini_inanna_descent_2026-07-01_r3",
+  "source": "gemini",
+  "corpus": "inanna_descent",
+  "run_index": 3,
+  "annotated_date": "2026-07-01",
+  "fresh_session": true,
+  "prior_run_id": null,
+  "text_variant": "CDLI_Literary_000343_Inanna_composite_P468903",
+  "model": {
+    "model_version": "gemini_pro_standard (anonymous UI, 2026-07-01)",
+    "temperature": null,
+    "prompt_id": "seg_v4",
+    "sample_index": 3
+  },
+  "segments": [
+    {
+      "segment_id": "1",
+      "text_en": "Inanna abandons her temples",
+      "function": "preparation",
+      "cognitive_frame": [
+        "ritual_descent"
+      ],
+      "transition_from": "preparation",
+      "transition_to": "preparation",
+      "markers": [
+        "heaven",
+        "earth",
+        "underworld"
+      ],
+      "anomaly_type": "spatial",
+      "risk_mode": "none",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "From the great heaven she set her mind on the great below. ",
+        "My mistress abandoned heaven, abandoned earth, and descended to the underworld. "
+      ],
+      "confidence": 1.0,
+      "line_start": 1,
+      "line_end": 13
+    },
+    {
+      "segment_id": "2",
+      "text_en": "Gathering the divine powers and adornment",
+      "function": "preparation",
+      "cognitive_frame": [
+        "activation_through_attraction",
+        "authority_invocation"
+      ],
+      "transition_from": "preparation",
+      "transition_to": "preparation",
+      "markers": [
+        "divine powers",
+        "mascara",
+        "garment"
+      ],
+      "anomaly_type": "normative",
+      "risk_mode": "seduction",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "She took the seven divine powers. ",
+        "She covered her body with a pala dress, the garment of ladyship. ",
+        "She placed mascara “Let a man come, let him come” on her eyes. "
+      ],
+      "confidence": 1.0,
+      "line_start": 14,
+      "line_end": 26
+    },
+    {
+      "segment_id": "3",
+      "text_en": "Instructions to Ninshubur for mourning and rescue",
+      "function": "preparation",
+      "cognitive_frame": [
+        "caution",
+        "reciprocity"
+      ],
+      "transition_from": "preparation",
+      "transition_to": "contact",
+      "markers": [
+        "minister",
+        "lament",
+        "Enlil"
+      ],
+      "anomaly_type": "temporal",
+      "risk_mode": "none",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "When I have arrived in the underworld, make a lament for me on the ruin mounds. ",
+        "Father Enlil, don’t let anyone kill your daughter in the underworld. ",
+        "He is the one who will restore me to life. "
+      ],
+      "confidence": 1.0,
+      "line_start": 27,
+      "line_end": 72
+    },
+    {
+      "segment_id": "4",
+      "text_en": "Arrival at the gates of the underworld",
+      "function": "contact",
+      "cognitive_frame": [
+        "boundary_testing"
+      ],
+      "transition_from": "contact",
+      "transition_to": "negotiation",
+      "markers": [
+        "door",
+        "east",
+        "husband"
+      ],
+      "anomaly_type": "spatial",
+      "risk_mode": "deception",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "She pushed aggressively on the door of the underworld. ",
+        "I am Inanna going to the east. ",
+        "the husband of my elder sister holy Ereškigal, has died "
+      ],
+      "confidence": 1.0,
+      "line_start": 73,
+      "line_end": 93
+    },
+    {
+      "segment_id": "5",
+      "text_en": "Neti reports to Ereshkigal and receives orders",
+      "function": "negotiation",
+      "cognitive_frame": [
+        "authority_invocation"
+      ],
+      "transition_from": "negotiation",
+      "transition_to": "exchange",
+      "markers": [
+        "palace",
+        "thigh",
+        "gates"
+      ],
+      "anomaly_type": "normative",
+      "risk_mode": "coercion",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "It is Inanna, your sister, and she has arrived at the palace Ganzer. ",
+        "When she heard this, Ereškigal slapped the side of her thigh. ",
+        "Let the seven gates of the underworld be bolted. "
+      ],
+      "confidence": 1.0,
+      "line_start": 94,
+      "line_end": 128
+    },
+    {
+      "segment_id": "6",
+      "text_en": "Descent through the seven gates and stripping of powers",
+      "function": "exchange",
+      "cognitive_frame": [
+        "boundary_testing",
+        "ritual_descent"
+      ],
+      "transition_from": "exchange",
+      "transition_to": "disruption",
+      "markers": [
+        "removed",
+        "satisfied",
+        "rites"
+      ],
+      "anomaly_type": "status",
+      "risk_mode": "coercion",
+      "outcome_tag": "partial_transfer",
+      "evidence": [
+        "the turban, headgear for the open country, was removed from her head. ",
+        "Be satisfied, Inanna, a divine power of the underworld has been fulfilled. ",
+        "After she had crouched down and had her clothes removed, they were carried away. "
+      ],
+      "confidence": 1.0,
+      "line_start": 129,
+      "line_end": 164
+    },
+    {
+      "segment_id": "7",
+      "text_en": "Judgement and death of Inanna",
+      "function": "disruption",
+      "cognitive_frame": [
+        "authority_invocation"
+      ],
+      "transition_from": "disruption",
+      "transition_to": "disruption",
+      "markers": [
+        "throne",
+        "death",
+        "corpse"
+      ],
+      "anomaly_type": "status",
+      "risk_mode": "overload",
+      "outcome_tag": "channel_blocked",
+      "evidence": [
+        "Then she made her sister Ereškigal rise from her throne, and instead she sat on her throne. ",
+        "They looked at her—it was the look of death! ",
+        "The afflicted woman was turned into a corpse! And the corpse was hung on a hook. "
+      ],
+      "confidence": 1.0,
+      "line_start": 165,
+      "line_end": 172
+    },
+    {
+      "segment_id": "8",
+      "text_en": "Ninshubur's lament and appeals to the gods",
+      "function": "negotiation",
+      "cognitive_frame": [
+        "reciprocity",
+        "caution"
+      ],
+      "transition_from": "disruption",
+      "transition_to": "contact",
+      "markers": [
+        "lament",
+        "daughter",
+        "dirt"
+      ],
+      "anomaly_type": "normative",
+      "risk_mode": "none",
+      "outcome_tag": "misread_signal",
+      "evidence": [
+        "She made a lament for her in her ruined (houses). ",
+        "Father Enlil, don’t let anyone kill your daughter in the underworld. ",
+        "Thus father Enlil did not help in this matter, so she went to Ur. "
+      ],
+      "confidence": 1.0,
+      "line_start": 173,
+      "line_end": 216
+    },
+    {
+      "segment_id": "9",
+      "text_en": "Enki's intervention and creation of rescuers",
+      "function": "preparation",
+      "cognitive_frame": [
+        "trickster",
+        "authority_invocation"
+      ],
+      "transition_from": "contact",
+      "transition_to": "exchange",
+      "markers": [
+        "dirt",
+        "fingernail",
+        "phantoms"
+      ],
+      "anomaly_type": "status",
+      "risk_mode": "deception",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "What has my daughter done? She has me worried. ",
+        "He removed some dirt from the tip of his fingernail and created the kur-gar. ",
+        "Slip through the door pivots like phantoms. ",
+        "Whether it is that of our king, whether it is that of our queen, give it to us. "
+      ],
+      "confidence": 1.0,
+      "line_start": 217,
+      "line_end": 253
+    },
+    {
+      "segment_id": "10",
+      "text_en": "The rescue and revival of Inanna",
+      "function": "exchange",
+      "cognitive_frame": [
+        "reciprocity",
+        "ritual_descent"
+      ],
+      "transition_from": "exchange",
+      "transition_to": "return",
+      "markers": [
+        "phantoms",
+        "heart",
+        "plant"
+      ],
+      "anomaly_type": "sensory",
+      "risk_mode": "seduction",
+      "outcome_tag": "partial_transfer",
+      "evidence": [
+        "They slipped through the door pivots like phantoms. ",
+        "they said to her “You are troubled, our mistress, oh your heart.” ",
+        "1 of them sprinkled on it the life-giving plant and 1 the life-giving water. ",
+        "And thus Inanna rose up. "
+      ],
+      "confidence": 1.0,
+      "line_start": 254,
+      "line_end": 283
+    },
+    {
+      "segment_id": "11",
+      "text_en": "Inanna's ascent and the demons' demand",
+      "function": "return",
+      "cognitive_frame": [
+        "boundary_testing",
+        "caution"
+      ],
+      "transition_from": "return",
+      "transition_to": "disruption",
+      "markers": [
+        "ascend",
+        "substitute",
+        "breasts"
+      ],
+      "anomaly_type": "normative",
+      "risk_mode": "coercion",
+      "outcome_tag": "partial_transfer",
+      "evidence": [
+        "Inanna, because of Enki’s instructions, was about to ascend from the underworld. ",
+        "Who has ever ascended from the underworld, has ascended unscathed from the underworld? ",
+        "If Inanna is to ascend from the underworld, let her provide a substitute for herself. ",
+        "They take away the child hanging on a wet-nurse’s breasts. "
+      ],
+      "confidence": 1.0,
+      "line_start": 284,
+      "line_end": 305
+    },
+    {
+      "segment_id": "12",
+      "text_en": "Sparing of the mourning allies",
+      "function": "negotiation",
+      "cognitive_frame": [
+        "reciprocity"
+      ],
+      "transition_from": "disruption",
+      "transition_to": "negotiation",
+      "markers": [
+        "dust",
+        "garment",
+        "turn"
+      ],
+      "anomaly_type": "normative",
+      "risk_mode": "coercion",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "Ninšubur threw herself at her feet at the door of the Ganzer. ",
+        "She brought me back to life. How could I turn her over to you? ",
+        "He had sat in the dust and clothed himself in a filthy garment. ",
+        "How could I turn him over to you? "
+      ],
+      "confidence": 1.0,
+      "line_start": 306,
+      "line_end": 347
+    },
+    {
+      "segment_id": "13",
+      "text_en": "The betrayal and capture of Dumuzi",
+      "function": "exchange",
+      "cognitive_frame": [
+        "authority_invocation"
+      ],
+      "transition_from": "negotiation",
+      "transition_to": "disruption",
+      "markers": [
+        "throne",
+        "death",
+        "hands"
+      ],
+      "anomaly_type": "status",
+      "risk_mode": "coercion",
+      "outcome_tag": "channel_blocked",
+      "evidence": [
+        "There was Dumuzi clothed in a magnificent garment and seated magnificently on a throne. ",
+        "She looked at him, it was the look of death. ",
+        "Holy Inanna gave Dumuzi the shepherd into their hands. ",
+        "Dumuzi let out a wail and turned very pale. ",
+        "Utu turned Dumuzi’s hands into snake’s hands. "
+      ],
+      "confidence": 1.0,
+      "line_start": 348,
+      "line_end": 383
+    },
+    {
+      "segment_id": "14",
+      "text_en": "Mourning and final cosmic settlement",
+      "function": "stabilization",
+      "cognitive_frame": [
+        "reciprocity",
+        "ritual_descent"
+      ],
+      "transition_from": "disruption",
+      "transition_to": "stabilization",
+      "markers": [
+        "husband",
+        "reward",
+        "half"
+      ],
+      "anomaly_type": "temporal",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "Holy Inanna wept bitterly for her husband. ",
+        "If I show you where your man is, what will be my reward? ",
+        "You for half the year and your sister for half the year ",
+        "Thus holy Inanna gave Dumuzi as a substitute ... "
+      ],
+      "confidence": 1.0,
+      "line_start": 384,
+      "line_end": 412
+    }
+  ]
+}

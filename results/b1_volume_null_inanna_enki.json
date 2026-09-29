@@ -1,0 +1,191 @@
+{
+ "inanna_enki/human1/own": {
+  "K": 3,
+  "N": 71,
+  "V": 77,
+  "n_full": 21,
+  "var_obs": 0.055544534814520846,
+  "single": {
+   "n_full_expected": 25.75,
+   "ratio": 0.7888558459852945,
+   "p": 0.988011988011988,
+   "n_pieces": 77,
+   "mean_piece_len": 1.0
+  },
+  "pieces": {
+   "n_full_expected": 24.223,
+   "ratio": 0.8463004245607123,
+   "p": 0.8451548451548452,
+   "n_pieces": 21,
+   "mean_piece_len": 3.6666666666666665
+  },
+  "old_b1_ratio": 1.9031220263718382,
+  "runs": [
+   1,
+   2,
+   3
+  ]
+ },
+ "inanna_enki/opus/far": {
+  "K": 3,
+  "N": 71,
+  "V": 18,
+  "n_full": 3,
+  "var_obs": 0.03041724525557096,
+  "single": {
+   "n_full_expected": 1.864,
+   "ratio": 1.1323652977628496,
+   "p": 0.26973026973026976,
+   "n_pieces": 18,
+   "mean_piece_len": 1.0
+  },
+  "pieces": {
+   "n_full_expected": 1.824,
+   "ratio": 1.1376676823236216,
+   "p": 0.2517482517482518,
+   "n_pieces": 14,
+   "mean_piece_len": 1.2857142857142858
+  },
+  "old_b1_ratio": 0.7862101026858767,
+  "runs": [
+   6,
+   8,
+   10
+  ]
+ },
+ "inanna_enki/opus/medoid": {
+  "K": 3,
+  "N": 71,
+  "V": 16,
+  "n_full": 1,
+  "var_obs": 0.022526394674777933,
+  "single": {
+   "n_full_expected": 1.492,
+   "ratio": 0.9360140090707318,
+   "p": 0.8401598401598401,
+   "n_pieces": 16,
+   "mean_piece_len": 1.0
+  },
+  "pieces": {
+   "n_full_expected": 1.383,
+   "ratio": 0.9494735160063449,
+   "p": 0.7962037962037962,
+   "n_pieces": 12,
+   "mean_piece_len": 1.3333333333333333
+  },
+  "old_b1_ratio": 0.5702724027216836,
+  "runs": [
+   6,
+   4,
+   10
+  ]
+ },
+ "inanna_enki/gemini/far": {
+  "K": 3,
+  "N": 71,
+  "V": 49,
+  "n_full": 0,
+  "var_obs": 0.02376071767065619,
+  "single": {
+   "n_full_expected": 11.87,
+   "ratio": 0.3900793909261339,
+   "p": 1.0,
+   "n_pieces": 49,
+   "mean_piece_len": 1.0
+  },
+  "pieces": {
+   "n_full_expected": 10.615,
+   "ratio": 0.41696804663234405,
+   "p": 1.0,
+   "n_pieces": 7,
+   "mean_piece_len": 7.0
+  },
+  "old_b1_ratio": 0.7553706291158271,
+  "runs": [
+   5,
+   7,
+   10
+  ]
+ },
+ "inanna_enki/gemini/medoid": {
+  "K": 3,
+  "N": 71,
+  "V": 37,
+  "n_full": 0,
+  "var_obs": 0.02772818444312196,
+  "single": {
+   "n_full_expected": 7.276,
+   "ratio": 0.5490591796759007,
+   "p": 1.0,
+   "n_pieces": 37,
+   "mean_piece_len": 1.0
+  },
+  "pieces": {
+   "n_full_expected": 5.704,
+   "ratio": 0.6083266278781915,
+   "p": 1.0,
+   "n_pieces": 4,
+   "mean_piece_len": 9.25
+  },
+  "old_b1_ratio": 0.8827896715011943,
+  "runs": [
+   5,
+   3,
+   8
+  ]
+ },
+ "inanna_enki/qwen/far": {
+  "K": 3,
+  "N": 71,
+  "V": 27,
+  "n_full": 6,
+  "var_obs": 0.044964623421278785,
+  "single": {
+   "n_full_expected": 4.064,
+   "ratio": 1.155749741655946,
+   "p": 0.12787212787212787,
+   "n_pieces": 27,
+   "mean_piece_len": 1.0
+  },
+  "pieces": {
+   "n_full_expected": 3.996,
+   "ratio": 1.1621071052595668,
+   "p": 0.12287712287712288,
+   "n_pieces": 23,
+   "mean_piece_len": 1.173913043478261
+  },
+  "old_b1_ratio": 1.084462627504094,
+  "runs": [
+   4,
+   10,
+   3
+  ]
+ },
+ "inanna_enki/qwen/medoid": {
+  "K": 3,
+  "N": 71,
+  "V": 26,
+  "n_full": 6,
+  "var_obs": 0.04456787674403225,
+  "single": {
+   "n_full_expected": 3.826,
+   "ratio": 1.1801841133910713,
+   "p": 0.08791208791208792,
+   "n_pieces": 26,
+   "mean_piece_len": 1.0
+  },
+  "pieces": {
+   "n_full_expected": 3.734,
+   "ratio": 1.1892522649903505,
+   "p": 0.08091908091908091,
+   "n_pieces": 22,
+   "mean_piece_len": 1.1818181818181819
+  },
+  "old_b1_ratio": 1.075731039575408,
+  "runs": [
+   4,
+   10,
+   9
+  ]
+ }
+}

@@ -1,0 +1,539 @@
+{
+  "run_id": "human1_inanna_enki_2026-07-09_r2",
+  "source": "human1",
+  "corpus": "inanna_enki",
+  "run_index": 2,
+  "annotated_date": "2026-07-09",
+  "prior_run_id": null,
+  "text_variant": "ETCSL_1.3.1_EN",
+  "prompt_id": "seg_v5",
+  "segments": [
+    {
+      "segment_id": "Inanna_enki_1",
+      "text_en": "The system which represented by Inanna is fruitful and confident that is ready for emergence of new traits or the extension",
+      "function": "preparation",
+      "cognitive_frame": [
+        "activation_through_attraction"
+      ],
+      "transition_from": "preparation",
+      "transition_to": "contact",
+      "markers": [
+        "genitals",
+        "remarkable",
+        "delight",
+        "desert",
+        "beautiful",
+        "brilliant",
+        "exuberant",
+        "speak",
+        "coaxingly"
+      ],
+      "anomaly_type": "sensory",
+      "risk_mode": "seduction",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "She praised herself, full of delight at her genitals. When I have gratified the lord...when I have made ...... exuberant. I myself shall speak coaxingly to Enki, in the abzu"
+      ],
+      "line_start": 7,
+      "line_end": 33
+    },
+    {
+      "segment_id": "Inanna_enki_2",
+      "text_en": "Asking for a service, but the meaning of enquiry is vague",
+      "function": "negotiation",
+      "cognitive_frame": [
+        "ritual_descent",
+        "boundary_testing"
+      ],
+      "transition_from": "preparation",
+      "transition_to": "disruption",
+      "markers": [
+        "go",
+        "abzu",
+        "plea",
+        "sweet",
+        "oil",
+        "perfume",
+        "neglected",
+        "sex"
+      ],
+      "anomaly_type": "normative",
+      "risk_mode": "none",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "personally intend to go to the abzu",
+        "the sweet oil of the cedar",
+        "It shall never escape me that I have been neglected by him who has had sex"
+      ],
+      "line_start": 55,
+      "line_end": 59
+    },
+    {
+      "segment_id": "Inanna_enki_3",
+      "text_en": "Enki as an orchestrating system knows in advance the needs of Inanna and plans her visit",
+      "function": "preparation",
+      "cognitive_frame": [
+        "authority_invocation"
+      ],
+      "transition_from": "preparation",
+      "transition_to": "contact",
+      "markers": [
+        "exceptional knowledge",
+        "divine",
+        "powers",
+        "intentions",
+        "enterprise",
+        "instructions",
+        "offer",
+        "butter cake",
+        "water",
+        "beer",
+        "colleague"
+      ],
+      "anomaly_type": "status",
+      "risk_mode": "seduction",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "he of exceptional knowledge, who knows the divine powers in heaven and earth, who from his own dwelling already knows the intentions of the gods",
+        "even before holy Inana had approached within six miles of the abzu knew all about her enterprise",
+        "Pour beer for her, in front of the Lions Gate, make her feel as if she is in her girlfriend's house",
+        "He welcomed holy Inana at the holy table, at the table of An"
+      ],
+      "line_start": 60,
+      "line_end": 98
+    },
+    {
+      "segment_id": "Inanna_enki_4",
+      "text_en": "Mutual invocation for competition",
+      "function": "contact",
+      "cognitive_frame": [
+        "reciprocity",
+        "boundary_testing"
+      ],
+      "transition_from": "stabilization",
+      "transition_to": "exchange",
+      "markers": [
+        "drinking",
+        "together",
+        "enjoying",
+        "sweet",
+        "wine",
+        "bronze",
+        "vessels",
+        "competition"
+      ],
+      "anomaly_type": "sensory",
+      "risk_mode": "overload",
+      "outcome_tag": "partial_transfer",
+      "evidence": [
+        "Enki and Inana were drinking beer together",
+        "enjoying the taste of sweet wine",
+        "the two of them started a competition"
+      ],
+      "line_start": 99,
+      "line_end": 102
+    },
+    {
+      "segment_id": "Inanna_enki_5",
+      "text_en": "The transfer has been initiated by Enki to transmit the divine powers",
+      "function": "exchange",
+      "cognitive_frame": [
+        "authority_invocation",
+        "reciprocity"
+      ],
+      "transition_from": "contact",
+      "transition_to": "exchange",
+      "markers": [
+        "give",
+        "received",
+        "name",
+        "power",
+        "abzu",
+        "daughter"
+      ],
+      "anomaly_type": "spatial",
+      "risk_mode": "none",
+      "outcome_tag": "partial_transfer",
+      "evidence": [
+        "I will give them to holy Inana",
+        "wickedness, righteousness, the plundering of cities, making lamentations, rejoicing",
+        "In the name of my power, in the name of my abzu, I will give them",
+        "Holy Inana received",
+        "He has given me the craft of the builder",
+        "He has given me strife. He has given me triumph"
+      ],
+      "line_start": 138,
+      "line_end": 274
+    },
+    {
+      "segment_id": "Inanna_enki_6",
+      "text_en": "Enki tries to reach Inanna, only after he figures out that she had left, he put his attention to divine powers. NO demand to return 'me', return is about Inanna itself",
+      "function": "disruption",
+      "cognitive_frame": [
+        "authority_invocation",
+        "boundary_testing"
+      ],
+      "transition_from": "contact",
+      "transition_to": "return",
+      "markers": [
+        "wish",
+        "depart",
+        "reach",
+        "divine powers",
+        "Boat of Heaven",
+        "effects",
+        "beer",
+        "attention"
+      ],
+      "anomaly_type": "temporal",
+      "risk_mode": "deception",
+      "outcome_tag": "misread_signal",
+      "evidence": [
+        "can I still reach her?",
+        "holy Inana had gathered up the divine powers and embarked onto the Boat of Heaven. The Boat of Heaven had already left the quay",
+        "The lord looked up at the abzu",
+        "King Enki turned his attention to Eridug"
+      ],
+      "line_start": 279,
+      "line_end": 291
+    },
+    {
+      "segment_id": "Inanna_enki_7",
+      "text_en": "The enquiry on localization of the lost divine powers by Enki",
+      "function": "contact",
+      "cognitive_frame": [
+        "trickster",
+        "boundary_testing"
+      ],
+      "transition_from": "disruption",
+      "transition_to": "exchange",
+      "markers": [
+        "where",
+        "give",
+        "underworld",
+        "prostitution",
+        "speech",
+        "office",
+        "priest",
+        "priestess"
+      ],
+      "anomaly_type": "normative",
+      "risk_mode": "deception",
+      "outcome_tag": "misread_signal",
+      "evidence": [
+        "Where are the office of egi-zi priestess",
+        "Where are constancy, ......, ......, going down to the underworld, coming up from the underworld",
+        "Where are the standard, the quiver, sexual intercourse, kissing, prostitution",
+        "My master has given them to his daughter"
+      ],
+      "line_start": 292,
+      "line_end": 310
+    },
+    {
+      "segment_id": "Inanna_enki_8",
+      "text_en": "Preparing agents for motion within the protocol of exchange",
+      "function": "preparation",
+      "cognitive_frame": [
+        "authority_invocation",
+        "caution"
+      ],
+      "transition_from": "contact",
+      "transition_to": "exchange",
+      "markers": [
+        "word",
+        "advice",
+        "loud",
+        "knowing",
+        "much",
+        "showed",
+        "received",
+        "gave",
+        "tree",
+        "bird",
+        "fish"
+      ],
+      "anomaly_type": "status",
+      "risk_mode": "coercion",
+      "outcome_tag": "partial_transfer",
+      "evidence": [
+        "in the house of Enki should not forget a word",
+        "He received ...... the halub tree and his box-tree",
+        "He gave ...... to the bird of heaven",
+        "He gave ...... to the fish of the subterranean waters"
+      ],
+      "line_start": 311,
+      "line_end": 331
+    },
+    {
+      "segment_id": "Inanna_enki_9",
+      "text_en": "Algorithm of 7 step requests to return, starting over again, using status enquiries. Notable using guardians of Unug and sending back Inanna to Unug",
+      "function": "negotiation",
+      "cognitive_frame": [
+        "trickster",
+        "ritual_descent",
+        "boundary_testing"
+      ],
+      "transition_from": "disruption",
+      "transition_to": "return",
+      "markers": [
+        "serious",
+        "important",
+        "words",
+        "countermanded",
+        "Unug",
+        "Boat of Heaven",
+        "promise",
+        "falsehood",
+        "duplicitously",
+        "messenger",
+        "water",
+        "hand",
+        "feet",
+        "fifty lahama",
+        "fifty giants",
+        "enkum",
+        "great fish",
+        "guardians of Unug",
+        "seize",
+        "Id-surungal",
+        "presented"
+      ],
+      "anomaly_type": "normative",
+      "risk_mode": "coercion",
+      "outcome_tag": "misread_signal",
+      "evidence": [
+        "Where has the Boat of Heaven reached now?",
+        "Go now! The enkum are to take the Boat of Heaven away from her!",
+        "His important words cannot be countermanded",
+        "Why should his important words not be countermanded?",
+        "How could he have altered his promise as far as I am concerned?",
+        "Has he duplicitously sent you to me as a messenger?",
+        "Now as these words were still in her mouth, he got the enkum to seize hold of the Boat of Heaven",
+        "Inana got hold again of the divine powers which had been presented to her, and the Boat of Heaven",
+        "A seventh time.."
+      ],
+      "line_start": 343,
+      "line_end": 559
+    },
+    {
+      "segment_id": "Inanna_enki_10",
+      "text_en": "Transfer of divine powers (discrete units of civilization) has successfully executed. People should show their emotions regarding this transition",
+      "function": "stabilization",
+      "cognitive_frame": [
+        "reciprocity",
+        "activation_through_attraction"
+      ],
+      "transition_from": "contact",
+      "transition_to": "exchange",
+      "markers": [
+        "Gate of Joy",
+        "rejoicing",
+        "barges",
+        "river",
+        "magnificently",
+        "awe",
+        "comfort",
+        "counsel",
+        "joy",
+        "festival",
+        "sacrifice",
+        "beer",
+        "drums",
+        "sound",
+        "instruments",
+        "declare",
+        "greatness",
+        "praise"
+      ],
+      "anomaly_type": "sensory",
+      "risk_mode": "overload",
+      "outcome_tag": "partial_transfer",
+      "evidence": [
+        "Now there will be rejoicing in our city",
+        "It shall pass along the street magnificently",
+        "The people shall stand in the street full of awe",
+        "The king shall slaughter bulls, shall sacrifice sheep",
+        "My people shall utter my praise"
+      ],
+      "line_start": 563,
+      "line_end": 593
+    },
+    {
+      "segment_id": "Inanna_enki_11",
+      "text_en": "Installation of the divine powers and admiration by Enki",
+      "function": "stabilization",
+      "cognitive_frame": [
+        "reciprocity"
+      ],
+      "transition_from": "contact",
+      "transition_to": "return",
+      "markers": [
+        "Boat of Heaven",
+        "magnificently",
+        "street",
+        "maiden's house",
+        "well",
+        "Chamber",
+        "where",
+        "now",
+        "admiration"
+      ],
+      "anomaly_type": "spatial",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "It reached the maiden's house, and she ...... its place",
+        "the purified well, her principal well..",
+        "at the Jipar Gate. At the Agrun Chamber",
+        "Go now, ...... admiration"
+      ],
+      "line_start": 600,
+      "line_end": 617
+    },
+    {
+      "segment_id": "Inanna_enki_12",
+      "text_en": "The full list of divine powers that were transmitted",
+      "function": "return",
+      "cognitive_frame": [
+        "authority_invocation"
+      ],
+      "transition_from": "return",
+      "transition_to": "stabilization",
+      "markers": [
+        "brought",
+        "throne",
+        "crown",
+        "priestess",
+        "priest",
+        "underworld",
+        "sexual intercourse",
+        "prostitution",
+        "kissing",
+        "cultic prostitute",
+        "instruments",
+        "song",
+        "deceit",
+        "craft"
+      ],
+      "anomaly_type": "status",
+      "risk_mode": "overload",
+      "outcome_tag": "channel_blocked",
+      "evidence": [
+        "you have brought with you decision-making",
+        "the attractiveness of women",
+        "the craft of the scribe..the craft of the builder",
+        "you have brought with you being on the move, ... being sedentary",
+        "you have brought with you deceitful speech, ... grandiloquent speech",
+        "you have brought with you the cultic prostitute"
+      ],
+      "line_start": 621,
+      "line_end": 728
+    },
+    {
+      "segment_id": "Inanna_enki_13",
+      "text_en": "Name assignment based on features or functions",
+      "function": "contact",
+      "cognitive_frame": [
+        "authority_invocation"
+      ],
+      "transition_from": "contact",
+      "transition_to": "stabilization",
+      "markers": [
+        "woman",
+        "joy",
+        "name",
+        "trader",
+        "quay",
+        "boat",
+        "white",
+        "blue"
+      ],
+      "anomaly_type": "status",
+      "risk_mode": "none",
+      "outcome_tag": "partial_transfer",
+      "evidence": [
+        "she named that place with the name 'Potsherds and scrap metal'",
+        "Where the boat came to dock at the quay, she named that place with the name White Quay ... Blue Quay"
+      ],
+      "line_start": 737,
+      "line_end": 747
+    },
+    {
+      "segment_id": "Inanna_enki_14",
+      "text_en": "Establishing in the abzu domain for Inanna",
+      "function": "stabilization",
+      "cognitive_frame": [
+        "authority_invocation"
+      ],
+      "transition_from": "contact",
+      "transition_to": "exchange",
+      "markers": [
+        "name",
+        "power",
+        "abzu",
+        "establish",
+        "woman"
+      ],
+      "anomaly_type": "spatial",
+      "risk_mode": "seduction",
+      "outcome_tag": "partial_transfer",
+      "evidence": [
+        "Enki spoke to holy Inana",
+        "I will establish ...... in my abzu for the woman"
+      ],
+      "line_start": 748,
+      "line_end": 750
+    },
+    {
+      "segment_id": "Inanna_enki_15",
+      "text_en": "Ambiguous reading of the present situation (taking back divine powers from the intrinsic space)",
+      "function": "disruption",
+      "cognitive_frame": [
+        "boundary_testing",
+        "trickster"
+      ],
+      "transition_from": "contact",
+      "transition_to": "return",
+      "markers": [
+        "why",
+        "entered",
+        "taking from"
+      ],
+      "anomaly_type": "normative",
+      "risk_mode": "coercion",
+      "outcome_tag": "misread_signal",
+      "evidence": [
+        "Why has this one now entered here? ...... taking the divine powers from me?"
+      ],
+      "line_start": 751,
+      "line_end": 752
+    },
+    {
+      "segment_id": "Inanna_enki_16",
+      "text_en": "",
+      "function": "return",
+      "cognitive_frame": [
+        "reciprocity"
+      ],
+      "transition_from": "exchange",
+      "transition_to": "stabilization",
+      "markers": [
+        "festival",
+        "gate",
+        "citizens",
+        "restored"
+      ],
+      "anomaly_type": "spatial",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "May ...... pass their time",
+        "May the citizens of your city, Inana",
+        "And as for you, Enki -- may ...... your city",
+        "and has indeed restored"
+      ],
+      "line_start": 753,
+      "line_end": 764
+    }
+  ]
+}

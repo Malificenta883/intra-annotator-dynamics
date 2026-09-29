@@ -1,0 +1,756 @@
+{
+  "run_id": "opus_inanna_enki_2026-07-09_r5",
+  "source": "opus",
+  "corpus": "inanna_enki",
+  "run_index": 5,
+  "annotated_date": "2026-07-09",
+  "fresh_session": true,
+  "prior_run_id": null,
+  "text_variant": "ETCSL_1.3.1_EN",
+  "model": {
+    "model_version": "claude_opus_4.8_high (anonymous UI)",
+    "temperature": null,
+    "prompt_id": "seg_v5",
+    "sample_index": 5
+  },
+  "segments": [
+    {
+      "segment_id": "1",
+      "text_en": "Inana adorns herself with the desert crown",
+      "function": "preparation",
+      "cognitive_frame": [
+        "activation_through_attraction"
+      ],
+      "transition_from": "preparation",
+      "transition_to": "preparation",
+      "markers": [
+        "desert crown",
+        "genitals",
+        "sheepfold",
+        "shepherd",
+        "praised herself",
+        "delight"
+      ],
+      "anomaly_type": "sensory",
+      "risk_mode": "none",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "She put the cu-gura, the desert crown, on her head.",
+        "her genitals were remarkable",
+        "She praised herself, full of delight at her genitals",
+        "when she went out to the shepherd, to the sheepfold"
+      ],
+      "confidence": 0.9,
+      "line_start": 7,
+      "line_end": 16
+    },
+    {
+      "segment_id": "2",
+      "text_en": "Inana declares her intent to approach Enki",
+      "function": "preparation",
+      "cognitive_frame": [
+        "activation_through_attraction",
+        "boundary_testing"
+      ],
+      "transition_from": "preparation",
+      "transition_to": "contact",
+      "markers": [
+        "abzu",
+        "Eridug",
+        "Enki",
+        "coaxingly",
+        "plea",
+        "steps"
+      ],
+      "anomaly_type": "spatial",
+      "risk_mode": "seduction",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "I shall direct my steps to the abzu, to Eridug",
+        "I myself shall speak coaxingly to Enki, in the abzu, in Eridug",
+        "I, Inana, personally intend to go to the abzu",
+        "I shall utter a plea to the lord Enki",
+        "It shall never escape me that I have been neglected by him who has had sex"
+      ],
+      "confidence": 0.9,
+      "line_start": 17,
+      "line_end": 59
+    },
+    {
+      "segment_id": "3",
+      "text_en": "Enki foreknows her arrival and orders hospitality",
+      "function": "preparation",
+      "cognitive_frame": [
+        "authority_invocation",
+        "caution",
+        "reciprocity"
+      ],
+      "transition_from": "preparation",
+      "transition_to": "contact",
+      "markers": [
+        "abzu",
+        "Eridug",
+        "Enki",
+        "Isimud",
+        "beer",
+        "butter cake",
+        "Lions Gate",
+        "holy table"
+      ],
+      "anomaly_type": "temporal",
+      "risk_mode": "none",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "Enki, the king of the abzu, ... knew all about her enterprise",
+        "who knows the divine powers in heaven and earth, who from his own dwelling already knows the intentions of the gods",
+        "Come here, my man, listen to my words",
+        "Pour beer for her, in front of the Lions Gate",
+        "make her feel as if she is in her girlfriend's house"
+      ],
+      "confidence": 0.9,
+      "line_start": 60,
+      "line_end": 86
+    },
+    {
+      "segment_id": "4",
+      "text_en": "Isimud welcomes Inana to the banquet",
+      "function": "contact",
+      "cognitive_frame": [
+        "reciprocity"
+      ],
+      "transition_from": "preparation",
+      "transition_to": "contact",
+      "markers": [
+        "abzu",
+        "Eridug",
+        "butter cake",
+        "beer",
+        "Lions Gate",
+        "holy table",
+        "An"
+      ],
+      "anomaly_type": "sensory",
+      "risk_mode": "none",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "He let Inana into the abzu and Eridug",
+        "she got butter cake to eat",
+        "they gave her beer to drink, in front of the Lions Gate",
+        "He welcomed holy Inana at the holy table, at the table of An",
+        "He made her feel as if she was in her girlfriend's house"
+      ],
+      "confidence": 0.9,
+      "line_start": 87,
+      "line_end": 98
+    },
+    {
+      "segment_id": "5",
+      "text_en": "The beer-drinking competition begins",
+      "function": "contact",
+      "cognitive_frame": [
+        "activation_through_attraction",
+        "boundary_testing"
+      ],
+      "transition_from": "contact",
+      "transition_to": "exchange",
+      "markers": [
+        "beer",
+        "sweet wine",
+        "competition",
+        "bronze vessels",
+        "Urac"
+      ],
+      "anomaly_type": "sensory",
+      "risk_mode": "overload",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "Enki and Inana were drinking beer together in the abzu",
+        "enjoying the taste of sweet wine",
+        "the two of them started a competition",
+        "drinking from the bronze vessels of Urac"
+      ],
+      "confidence": 0.9,
+      "line_start": 99,
+      "line_end": 102
+    },
+    {
+      "segment_id": "6",
+      "text_en": "Enki grants the divine powers to Inana",
+      "function": "exchange",
+      "cognitive_frame": [
+        "reciprocity",
+        "authority_invocation"
+      ],
+      "transition_from": "exchange",
+      "transition_to": "exchange",
+      "markers": [
+        "me",
+        "power",
+        "abzu",
+        "received",
+        "given",
+        "crafts",
+        "wisdom"
+      ],
+      "anomaly_type": "status",
+      "risk_mode": "seduction",
+      "outcome_tag": "partial_transfer",
+      "evidence": [
+        "I will give them to holy Inana, my daughter",
+        "In the name of my power, in the name of my abzu",
+        "Holy Inana received heroism, power, wickedness, righteousness",
+        "Holy Inana received the craft of the carpenter, the craft of the coppersmith",
+        "Holy Inana received wisdom, attentiveness, holy purification rites"
+      ],
+      "confidence": 0.95,
+      "line_start": 138,
+      "line_end": 164
+    },
+    {
+      "segment_id": "7",
+      "text_en": "Inana recites the powers she has received",
+      "function": "stabilization",
+      "cognitive_frame": [
+        "reciprocity",
+        "authority_invocation"
+      ],
+      "transition_from": "exchange",
+      "transition_to": "return",
+      "markers": [
+        "given",
+        "me",
+        "righteousness",
+        "crafts",
+        "wisdom",
+        "triumph"
+      ],
+      "anomaly_type": "status",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "He has given me righteousness. He has given me the plundering of cities.",
+        "He has given me deceit. He has given me the rebel lands.",
+        "He has given me the craft of the carpenter.",
+        "He has given me wisdom. He has given me attentiveness.",
+        "He has given me strife. He has given me triumph. He has given me counselling."
+      ],
+      "confidence": 0.9,
+      "line_start": 243,
+      "line_end": 278
+    },
+    {
+      "segment_id": "8",
+      "text_en": "Enki sobers to find Inana already fled by boat",
+      "function": "disruption",
+      "cognitive_frame": [
+        "caution",
+        "boundary_testing"
+      ],
+      "transition_from": "exchange",
+      "transition_to": "disruption",
+      "markers": [
+        "Boat of Heaven",
+        "quay",
+        "beer",
+        "divine powers",
+        "Enki",
+        "Eridug"
+      ],
+      "anomaly_type": "temporal",
+      "risk_mode": "deception",
+      "outcome_tag": "misread_signal",
+      "evidence": [
+        "can I still reach her?",
+        "holy Inana had gathered up the divine powers and embarked onto the Boat of Heaven",
+        "The Boat of Heaven had already left the quay",
+        "as the effects of the beer cleared from father Enki who had drunk beer",
+        "King Enki turned his attention to Eridug"
+      ],
+      "confidence": 0.9,
+      "line_start": 279,
+      "line_end": 291
+    },
+    {
+      "segment_id": "9",
+      "text_en": "Enki interrogates Isimud over the missing powers",
+      "function": "disruption",
+      "cognitive_frame": [
+        "authority_invocation",
+        "caution"
+      ],
+      "transition_from": "disruption",
+      "transition_to": "disruption",
+      "markers": [
+        "Where are",
+        "given to his daughter",
+        "en priest",
+        "crown",
+        "throne",
+        "sceptre"
+      ],
+      "anomaly_type": "status",
+      "risk_mode": "deception",
+      "outcome_tag": "channel_blocked",
+      "evidence": [
+        "Where are the office of en priest, the office of lagal priest, divinity, the great and good crown, the royal throne?",
+        "My master has given them to his daughter.",
+        "Where are the noble sceptre, the staff and crook, the noble dress, shepherdship, kingship?",
+        "Where are the standard, the quiver, sexual intercourse, kissing, prostitution",
+        "Where are the holy nijin-jar shrine, ......, the hierodule of heaven, loud musical instruments"
+      ],
+      "confidence": 0.9,
+      "line_start": 292,
+      "line_end": 310
+    },
+    {
+      "segment_id": "10",
+      "text_en": "Enki mobilises agents (the frog fragment)",
+      "function": "preparation",
+      "cognitive_frame": [
+        "authority_invocation",
+        "trickster"
+      ],
+      "transition_from": "disruption",
+      "transition_to": "negotiation",
+      "markers": [
+        "frog",
+        "temple door",
+        "halub tree",
+        "box-tree",
+        "bird of heaven",
+        "fish"
+      ],
+      "anomaly_type": "normative",
+      "risk_mode": "none",
+      "outcome_tag": "channel_opened",
+      "evidence": [
+        "By the bolt of the temple door, a frog spoke.",
+        "Enki grasped the frog by his right paw.",
+        "He received ...... the halub tree and his box-tree.",
+        "He gave ...... to the bird of heaven.",
+        "in the house of Enki should not forget a word"
+      ],
+      "confidence": 0.5,
+      "line_start": 311,
+      "line_end": 331
+    },
+    {
+      "segment_id": "11",
+      "text_en": "Pursuit round one: the enkum sent",
+      "function": "negotiation",
+      "cognitive_frame": [
+        "authority_invocation",
+        "boundary_testing",
+        "caution"
+      ],
+      "transition_from": "disruption",
+      "transition_to": "stabilization",
+      "markers": [
+        "Boat of Heaven",
+        "enkum",
+        "seize",
+        "countermanded",
+        "Nincubur",
+        "divine powers"
+      ],
+      "anomaly_type": "spatial",
+      "risk_mode": "coercion",
+      "outcome_tag": "channel_blocked",
+      "evidence": [
+        "The enkum are to take the Boat of Heaven away from her!",
+        "What your father said was very serious. ... His important words cannot be countermanded.",
+        "How could my father have changed what he said to me?",
+        "he got the enkum to seize hold of the Boat of Heaven",
+        "Come, my good minister of E-ana! My fair-spoken minister!"
+      ],
+      "confidence": 0.9,
+      "line_start": 343,
+      "line_end": 375
+    },
+    {
+      "segment_id": "12",
+      "text_en": "Pursuit round two: the fifty giants of Eridug",
+      "function": "negotiation",
+      "cognitive_frame": [
+        "authority_invocation",
+        "boundary_testing",
+        "caution"
+      ],
+      "transition_from": "disruption",
+      "transition_to": "stabilization",
+      "markers": [
+        "Boat of Heaven",
+        "fifty giants",
+        "Eridug",
+        "seize",
+        "countermanded",
+        "divine powers"
+      ],
+      "anomaly_type": "spatial",
+      "risk_mode": "coercion",
+      "outcome_tag": "channel_blocked",
+      "evidence": [
+        "So Inana got hold again of the divine powers which had been presented to her, and the Boat of Heaven",
+        "The fifty giants of Eridug are to take the Boat of Heaven away from her!",
+        "His important words cannot be countermanded.",
+        "he got the fifty giants of Eridug to seize hold of the Boat of Heaven",
+        "How could he have altered his promise as far as I am concerned?"
+      ],
+      "confidence": 0.9,
+      "line_start": 376,
+      "line_end": 409
+    },
+    {
+      "segment_id": "13",
+      "text_en": "Pursuit round three: the fifty lahama",
+      "function": "negotiation",
+      "cognitive_frame": [
+        "authority_invocation",
+        "boundary_testing",
+        "caution"
+      ],
+      "transition_from": "disruption",
+      "transition_to": "stabilization",
+      "markers": [
+        "Boat of Heaven",
+        "lahama",
+        "subterranean waters",
+        "seize",
+        "abzu",
+        "UL.MA hill"
+      ],
+      "anomaly_type": "spatial",
+      "risk_mode": "coercion",
+      "outcome_tag": "channel_blocked",
+      "evidence": [
+        "and then for the third time the prince spoke to his minister Isimud",
+        "The fifty lahama of the subterranean waters are to take the Boat of Heaven away from her!",
+        "It has just now reached the UL.MA hill.",
+        "he got the fifty lahama of the subterranean waters to seize hold of the Boat of Heaven",
+        "Has he sworn falsely by the name of his power and by the name of his abzu?"
+      ],
+      "confidence": 0.9,
+      "line_start": 410,
+      "line_end": 443
+    },
+    {
+      "segment_id": "14",
+      "text_en": "Pursuit round four: all the great fish",
+      "function": "negotiation",
+      "cognitive_frame": [
+        "authority_invocation",
+        "boundary_testing",
+        "caution"
+      ],
+      "transition_from": "disruption",
+      "transition_to": "stabilization",
+      "markers": [
+        "Boat of Heaven",
+        "great fish",
+        "Field Hill",
+        "seize",
+        "Nincubur",
+        "divine powers"
+      ],
+      "anomaly_type": "spatial",
+      "risk_mode": "coercion",
+      "outcome_tag": "channel_blocked",
+      "evidence": [
+        "and then for the fourth time the prince spoke to his minister Isimud",
+        "All the great fish together ...... are to take the Boat of Heaven away from her!",
+        "It has just now reached the Field Hill.",
+        "he got all the great fish together ...... to seize hold of the Boat of Heaven",
+        "Come, my good minister of E-ana! My fair-spoken minister!"
+      ],
+      "confidence": 0.9,
+      "line_start": 444,
+      "line_end": 477
+    },
+    {
+      "segment_id": "15",
+      "text_en": "Pursuit round five: the guardians of Unug",
+      "function": "negotiation",
+      "cognitive_frame": [
+        "authority_invocation",
+        "boundary_testing",
+        "caution"
+      ],
+      "transition_from": "disruption",
+      "transition_to": "stabilization",
+      "markers": [
+        "Boat of Heaven",
+        "guardians of Unug",
+        "seize",
+        "falsehood",
+        "Nincubur"
+      ],
+      "anomaly_type": "spatial",
+      "risk_mode": "coercion",
+      "outcome_tag": "channel_blocked",
+      "evidence": [
+        "and then for the fifth time the prince spoke to his minister Isimud",
+        "the guardians of Unug, are to take the Boat of Heaven away from her!",
+        "he got the ......, the guardians of Unug, to seize hold of the Boat of Heaven",
+        "Was it falsehood that my father said to me, did he speak falsely to me?",
+        "Water has never touched your hand, water has never touched your feet!"
+      ],
+      "confidence": 0.9,
+      "line_start": 478,
+      "line_end": 511
+    },
+    {
+      "segment_id": "16",
+      "text_en": "Pursuit round six: the Id-surungal",
+      "function": "negotiation",
+      "cognitive_frame": [
+        "authority_invocation",
+        "boundary_testing",
+        "caution"
+      ],
+      "transition_from": "disruption",
+      "transition_to": "stabilization",
+      "markers": [
+        "Boat of Heaven",
+        "Id-surungal",
+        "seize",
+        "countermanded",
+        "divine powers"
+      ],
+      "anomaly_type": "spatial",
+      "risk_mode": "coercion",
+      "outcome_tag": "channel_blocked",
+      "evidence": [
+        "and then for the sixth time the prince spoke to his minister Isimud",
+        "It has just now reached the Id-surungal ......",
+        "The Id-surungal ...... are to take the Boat of Heaven away from her!",
+        "he got the Id-surungal ...... to seize hold of the Boat of Heaven",
+        "How could he have discredited his important words to me?"
+      ],
+      "confidence": 0.9,
+      "line_start": 512,
+      "line_end": 547
+    },
+    {
+      "segment_id": "17",
+      "text_en": "Seventh time: Inana secures the Boat of Heaven",
+      "function": "stabilization",
+      "cognitive_frame": [
+        "boundary_testing",
+        "caution"
+      ],
+      "transition_from": "negotiation",
+      "transition_to": "return",
+      "markers": [
+        "Boat of Heaven",
+        "seventh time",
+        "Unug",
+        "Inana",
+        "Nincubur"
+      ],
+      "anomaly_type": "spatial",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "and then ...... Unug ......",
+        "A seventh time ......",
+        "The great princely scion, holy ......",
+        "Holy Inana ...... the Boat of Heaven.",
+        "Holy Inana at that time ......"
+      ],
+      "confidence": 0.5,
+      "line_start": 548,
+      "line_end": 559
+    },
+    {
+      "segment_id": "18",
+      "text_en": "Arrival at Unug: rejoicing and proclamation",
+      "function": "return",
+      "cognitive_frame": [
+        "reciprocity",
+        "authority_invocation",
+        "activation_through_attraction"
+      ],
+      "transition_from": "stabilization",
+      "transition_to": "return",
+      "markers": [
+        "Boat of Heaven",
+        "Gate of Joy",
+        "Unug Kulaba",
+        "rejoicing",
+        "festival",
+        "greatness"
+      ],
+      "anomaly_type": "spatial",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "today you have brought the Boat of Heaven to the Gate of Joy, to Unug Kulaba",
+        "Now there will be rejoicing in our city",
+        "It shall pass along the street magnificently. The people shall stand in the street full of awe.",
+        "The king shall slaughter bulls, shall sacrifice sheep.",
+        "The foreign lands shall declare my greatness. My people shall utter my praise."
+      ],
+      "confidence": 0.9,
+      "line_start": 563,
+      "line_end": 593
+    },
+    {
+      "segment_id": "19",
+      "text_en": "The boat docks and the powers are installed",
+      "function": "return",
+      "cognitive_frame": [
+        "authority_invocation",
+        "reciprocity"
+      ],
+      "transition_from": "return",
+      "transition_to": "stabilization",
+      "markers": [
+        "Boat of Heaven",
+        "maiden's house",
+        "Jipar Gate",
+        "Agrun Chamber",
+        "divine powers",
+        "well"
+      ],
+      "anomaly_type": "spatial",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "it passed magnificently along the street",
+        "It reached the maiden's house",
+        "the purified well, her principal well",
+        "Inana ...... the divine powers which had been presented to her, and the Boat of Heaven, at the Jipar Gate",
+        "At the Agrun Chamber ......"
+      ],
+      "confidence": 0.75,
+      "line_start": 600,
+      "line_end": 607
+    },
+    {
+      "segment_id": "20",
+      "text_en": "Enki tracks the boat and sends admiration",
+      "function": "stabilization",
+      "cognitive_frame": [
+        "caution",
+        "reciprocity"
+      ],
+      "transition_from": "negotiation",
+      "transition_to": "stabilization",
+      "markers": [
+        "Boat of Heaven",
+        "White Quay",
+        "admiration",
+        "Isimud",
+        "Enki"
+      ],
+      "anomaly_type": "spatial",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "Where has the Boat of Heaven reached now?",
+        "It has just now reached the White Quay.",
+        "Go now, ...... admiration.",
+        "Isimud, my minister, my Sweet Name of Heaven!"
+      ],
+      "confidence": 0.5,
+      "line_start": 608,
+      "line_end": 617
+    },
+    {
+      "segment_id": "21",
+      "text_en": "Acknowledgment of all the powers Inana brought",
+      "function": "stabilization",
+      "cognitive_frame": [
+        "reciprocity",
+        "authority_invocation"
+      ],
+      "transition_from": "stabilization",
+      "transition_to": "stabilization",
+      "markers": [
+        "brought with you",
+        "me",
+        "en priest",
+        "crown",
+        "throne",
+        "crafts",
+        "wisdom"
+      ],
+      "anomaly_type": "status",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "Inana, you have brought with you the office of en priest, ... the royal throne.",
+        "You have brought with you the noble sceptre, the staff and crook, the noble dress, shepherdship, kingship.",
+        "You have brought with you ... sexual intercourse, ... kissing, ... prostitution",
+        "You have brought with you wisdom, ... attentiveness, ... holy purification rites",
+        "You have brought with you strife, ... triumph, ... counselling, ... judging, ... decision-making."
+      ],
+      "confidence": 0.95,
+      "line_start": 621,
+      "line_end": 728
+    },
+    {
+      "segment_id": "22",
+      "text_en": "Inana names the places along the route",
+      "function": "stabilization",
+      "cognitive_frame": [
+        "authority_invocation",
+        "reciprocity"
+      ],
+      "transition_from": "stabilization",
+      "transition_to": "return",
+      "markers": [
+        "named",
+        "White Quay",
+        "Blue Quay",
+        "Ganzer",
+        "quay",
+        "boat"
+      ],
+      "anomaly_type": "spatial",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "she named it with the name \"The house Ganzer is rebuilt\"",
+        "she named that place with the name \"Potsherds and scrap metal (?)\"",
+        "Where the boat came to dock at the quay, she named that place with the name \"White Quay\"",
+        "she named that place with the name \"Blue Quay\""
+      ],
+      "confidence": 0.85,
+      "line_start": 737,
+      "line_end": 747
+    },
+    {
+      "segment_id": "23",
+      "text_en": "Enki's concession, Inana's query, and final blessing",
+      "function": "stabilization",
+      "cognitive_frame": [
+        "reciprocity",
+        "authority_invocation"
+      ],
+      "transition_from": "stabilization",
+      "transition_to": "return",
+      "markers": [
+        "abzu",
+        "festival",
+        "Unug",
+        "Eridug",
+        "divine powers",
+        "restored"
+      ],
+      "anomaly_type": "normative",
+      "risk_mode": "none",
+      "outcome_tag": "stabilization",
+      "evidence": [
+        "In the name of my power, in the name of my abzu, I will establish ...... in my abzu for the woman.",
+        "Why has this one now entered here? ...... taking the divine powers from me?",
+        "May there be ...... a festival!",
+        "May the citizens of your city, Inana, the citizens of Unug, live ......!",
+        "as for you, Enki -- may ...... your city, Eridug ......, and has indeed restored ......"
+      ],
+      "confidence": 0.75,
+      "line_start": 748,
+      "line_end": 764
+    }
+  ]
+}

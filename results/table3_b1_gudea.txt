@@ -1,0 +1,9 @@
+corpus         reader sel        N    V  all3 | single: exp  ratio      p | pieces: exp  ratio      p |  old B1
+gudea          human1 own      804  948   245 |       336.4   0.64  1.000 |       306.4   0.72  1.000 |    1.27
+gudea          opus   far      804  550    32 |       133.8   0.54  1.000 |       120.3   0.57  1.000 |    0.84
+gudea          opus   medoid   804  462    11 |        98.5   0.56  1.000 |        87.8   0.59  1.000 |    0.77
+gudea          gemini far      804  682   121 |       193.5   0.70  1.000 |       172.4   0.77  0.969 |    1.18
+gudea          gemini medoid   804  480    51 |       105.2   0.73  1.000 |        93.5   0.78  0.961 |    1.03
+gudea          qwen   far      804  549   103 |       133.2   0.86  1.000 |       121.8   0.91  0.796 |    1.33
+gudea          qwen   medoid   804  423    60 |        84.2   0.87  1.000 |        76.7   0.91  0.828 |    1.11
+wrote b1_volume_null_gudea.json

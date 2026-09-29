@@ -1,0 +1,11 @@
+corpus         reader  triples |   lag0 obs/exp  share> |     ±1 obs/exp  share> | ±1/exp ratio: min median max
+gudea          human1        1 |     14/9.5        100% |     32/17.8       100% | 1.80 1.80 1.80
+gudea          opus        120 |   4496/1011.7     100% |   2936/2127.6      85% | 0.59 1.38 2.34
+gudea          gemini      120 |   5488/1353.6     100% |   2811/2756.2      51% | 0.42 1.02 1.56
+gudea          qwen        120 |   5648/1838.8     100% |   4659/3643.4      88% | 0.76 1.27 1.96
+
+Table 4 summary (models = all triples of opus, gemini, qwen):
+corpus          human same-place/exp*  human 1-step/same   models: lowest same-place/exp  models: max 1-step/same
+gudea                            1.48               2.29                            2.09                     1.41
+* here with 200 draws, like the models; Table 4 gives the human value from the main mode (1,000 draws).
+wrote lag_test_gudea_triples.json

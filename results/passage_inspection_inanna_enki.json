@@ -1,0 +1,355 @@
+{
+ "inanna_enki/human1/own": {
+  "N": 71,
+  "passages": 15,
+  "types": {
+   "M": 8,
+   "A": 1,
+   "B": 0,
+   "C": 5,
+   "D": 1
+  },
+  "unit_types": {
+   "M": 23,
+   "A": 1,
+   "B": 0,
+   "C": 31,
+   "D": 1
+  },
+  "M_from": {
+   "D": 5,
+   "C": 1,
+   "B": 1,
+   "A": 1
+  },
+  "n_mirror_pairs": 7,
+  "n_mirror_adjacent": 3,
+  "edge": {
+   "n21": 9,
+   "A_obs": 2,
+   "A_exp": 2.0,
+   "p_above": 0.75,
+   "p_below": 0.75
+  },
+  "b_vs_c": {
+   "n": 7,
+   "licensed_obs": 1,
+   "licensed_exp": 1.4999999999999998,
+   "p_above": 0.8213877457704621,
+   "p_below": 0.5358367626886148
+  },
+  "zones": {
+   "W": 2,
+   "obs": 4,
+   "exp": 2.547,
+   "ratio": 1.5704750687082842,
+   "p_above": 0.2517482517482518,
+   "p_below": 0.989010989010989
+  },
+  "runs": [
+   1,
+   2,
+   3
+  ]
+ },
+ "inanna_enki/opus/far": {
+  "N": 71,
+  "passages": 11,
+  "types": {
+   "M": 0,
+   "A": 3,
+   "B": 2,
+   "C": 3,
+   "D": 3
+  },
+  "unit_types": {
+   "M": 0,
+   "A": 7,
+   "B": 2,
+   "C": 3,
+   "D": 3
+  },
+  "M_from": {},
+  "n_mirror_pairs": 0,
+  "n_mirror_adjacent": 0,
+  "edge": {
+   "n21": 8,
+   "A_obs": 3,
+   "A_exp": 3.033333333333333,
+   "p_above": 0.7333333333333333,
+   "p_below": 0.7333333333333334
+  },
+  "b_vs_c": {
+   "n": 5,
+   "licensed_obs": 2,
+   "licensed_exp": 0.9999999999999999,
+   "p_above": 0.2592592592592593,
+   "p_below": 0.9537037037037039
+  },
+  "zones": {
+   "W": 2,
+   "obs": 2,
+   "exp": 2.786,
+   "ratio": 0.7178750897343862,
+   "p_above": 0.8281718281718282,
+   "p_below": 0.5684315684315684
+  },
+  "runs": [
+   6,
+   8,
+   10
+  ]
+ },
+ "inanna_enki/opus/medoid": {
+  "N": 71,
+  "passages": 11,
+  "types": {
+   "M": 2,
+   "A": 5,
+   "B": 1,
+   "C": 2,
+   "D": 1
+  },
+  "unit_types": {
+   "M": 2,
+   "A": 9,
+   "B": 1,
+   "C": 2,
+   "D": 1
+  },
+  "M_from": {
+   "C": 2
+  },
+  "n_mirror_pairs": 2,
+  "n_mirror_adjacent": 0,
+  "edge": {
+   "n21": 10,
+   "A_obs": 5,
+   "A_exp": 4.552631578947368,
+   "p_above": 0.5263157894736842,
+   "p_below": 0.9736842105263158
+  },
+  "b_vs_c": {
+   "n": 5,
+   "licensed_obs": 1,
+   "licensed_exp": 0.8333333333333333,
+   "p_above": 0.6141975308641976,
+   "p_below": 0.8101851851851853
+  },
+  "zones": {
+   "W": 2,
+   "obs": 6,
+   "exp": 4.069,
+   "ratio": 1.4745637748832636,
+   "p_above": 0.25774225774225773,
+   "p_below": 0.9040959040959041
+  },
+  "runs": [
+   6,
+   4,
+   10
+  ]
+ },
+ "inanna_enki/gemini/far": {
+  "N": 71,
+  "passages": 7,
+  "types": {
+   "M": 4,
+   "A": 1,
+   "B": 0,
+   "C": 2,
+   "D": 0
+  },
+  "unit_types": {
+   "M": 42,
+   "A": 1,
+   "B": 0,
+   "C": 6,
+   "D": 0
+  },
+  "M_from": {
+   "A": 3,
+   "B": 1
+  },
+  "n_mirror_pairs": 3,
+  "n_mirror_adjacent": 2,
+  "edge": {
+   "n21": 7,
+   "A_obs": 4,
+   "A_exp": 2.6333333333333333,
+   "p_above": 0.10416666666666666,
+   "p_below": 0.9958333333333333
+  },
+  "b_vs_c": {
+   "n": 3,
+   "licensed_obs": 1,
+   "licensed_exp": 1.0,
+   "p_above": 0.7037037037037037,
+   "p_below": 0.7407407407407409
+  },
+  "zones": {
+   "W": 2,
+   "obs": 4,
+   "exp": 5.277,
+   "ratio": 0.7580064430547659,
+   "p_above": 0.8761238761238761,
+   "p_below": 0.4165834165834166
+  },
+  "runs": [
+   5,
+   7,
+   10
+  ]
+ },
+ "inanna_enki/gemini/medoid": {
+  "N": 71,
+  "passages": 4,
+  "types": {
+   "M": 2,
+   "A": 2,
+   "B": 0,
+   "C": 0,
+   "D": 0
+  },
+  "unit_types": {
+   "M": 18,
+   "A": 19,
+   "B": 0,
+   "C": 0,
+   "D": 0
+  },
+  "M_from": {
+   "A": 1,
+   "B": 1
+  },
+  "n_mirror_pairs": 2,
+  "n_mirror_adjacent": 0,
+  "edge": {
+   "n21": 4,
+   "A_obs": 3,
+   "A_exp": 1.0166666666666666,
+   "p_above": 0.04722222222222222,
+   "p_below": 0.9972222222222222
+  },
+  "b_vs_c": {
+   "n": 1,
+   "licensed_obs": 1,
+   "licensed_exp": 0.3333333333333333,
+   "p_above": 0.3333333333333333,
+   "p_below": 1.0
+  },
+  "zones": {
+   "W": 2,
+   "obs": 0,
+   "exp": 2.15,
+   "ratio": 0.0,
+   "p_above": 1.0,
+   "p_below": 0.11688311688311688
+  },
+  "runs": [
+   5,
+   3,
+   8
+  ]
+ },
+ "inanna_enki/qwen/far": {
+  "N": 71,
+  "passages": 17,
+  "types": {
+   "M": 2,
+   "A": 7,
+   "B": 1,
+   "C": 1,
+   "D": 6
+  },
+  "unit_types": {
+   "M": 2,
+   "A": 11,
+   "B": 1,
+   "C": 1,
+   "D": 6
+  },
+  "M_from": {
+   "A": 2
+  },
+  "n_mirror_pairs": 2,
+  "n_mirror_adjacent": 0,
+  "edge": {
+   "n21": 11,
+   "A_obs": 9,
+   "A_exp": 7.790909090909091,
+   "p_above": 0.14545454545454548,
+   "p_below": 0.990909090909091
+  },
+  "b_vs_c": {
+   "n": 2,
+   "licensed_obs": 1,
+   "licensed_exp": 0.3333333333333333,
+   "p_above": 0.3055555555555556,
+   "p_below": 0.9722222222222223
+  },
+  "zones": {
+   "W": 2,
+   "obs": 0,
+   "exp": 3.688,
+   "ratio": 0.0,
+   "p_above": 1.0,
+   "p_below": 0.09490509490509491
+  },
+  "runs": [
+   4,
+   10,
+   3
+  ]
+ },
+ "inanna_enki/qwen/medoid": {
+  "N": 71,
+  "passages": 16,
+  "types": {
+   "M": 2,
+   "A": 6,
+   "B": 1,
+   "C": 1,
+   "D": 6
+  },
+  "unit_types": {
+   "M": 2,
+   "A": 10,
+   "B": 1,
+   "C": 1,
+   "D": 6
+  },
+  "M_from": {
+   "A": 2
+  },
+  "n_mirror_pairs": 2,
+  "n_mirror_adjacent": 0,
+  "edge": {
+   "n21": 10,
+   "A_obs": 8,
+   "A_exp": 7.290909090909091,
+   "p_above": 0.27272727272727276,
+   "p_below": 0.9818181818181819
+  },
+  "b_vs_c": {
+   "n": 2,
+   "licensed_obs": 1,
+   "licensed_exp": 0.3333333333333333,
+   "p_above": 0.3055555555555556,
+   "p_below": 0.9722222222222223
+  },
+  "zones": {
+   "W": 2,
+   "obs": 0,
+   "exp": 2.427,
+   "ratio": 0.0,
+   "p_above": 1.0,
+   "p_below": 0.23676323676323677
+  },
+  "runs": [
+   4,
+   10,
+   9
+  ]
+ }
+}

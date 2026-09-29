@@ -1,0 +1,823 @@
+{
+  "run_id": "human1_gudea_2026-04-15_r1",
+  "source": "human1",
+  "corpus": "gudea",
+  "run_index": 1,
+  "annotated_date": "2026-04-15",
+  "fresh_session": true,
+  "prior_run_id": null,
+  "text_variant": "RIME 3/1.01.07, Cyl A composite (P431881)",
+  "segments": [
+  {
+    "segment_id": "gudea_001",
+    "text_en": "Lagash is asking for me for itself",
+    "function": "contact",
+    "cognitive_frame": [
+      "authority_invocation"
+    ],
+    "transition_from": "negotiation",
+    "transition_to": "exchange",
+    "markers": [
+      "destinies",
+      "me",
+      "Enlil",
+      "heart",
+      "banks",
+      "Tigris",
+      "emerge"
+    ],
+    "anomaly_type": "spatial",
+    "exchange_channel": "_",
+    "risk_mode": "none",
+    "outcome_tag": "channel_opened",
+    "evidence": [
+      "It was time to decide destinies in heaven and on earth. Lagash had raised the head towards heaven in large ‘me’, Did the ‘nig2-ul’ not emerge in our city? The ‘heart’ of Enlil, it is the river Tigris"
+    ],
+    "line_start": 1,
+    "line_end": 9
+  },
+  {
+    "segment_id": "gudea_002",
+    "text_en": "Emerging of the me through order from structure to a human being",
+    "function": "contact",
+    "cognitive_frame": [
+      "authority_invocation"
+    ],
+    "transition_from": "negotiation",
+    "transition_to": "preparation",
+    "markers": [
+      "emerge",
+      "me",
+      "destinies",
+      "head",
+      "build",
+      "ordered",
+      "house"
+    ],
+    "anomaly_type": "spatial",
+    "exchange_channel": "_",
+    "risk_mode": "none",
+    "outcome_tag": "channel_opened",
+    "evidence": [
+      "I will make the ‘me’ of Eninnu emerge in heaven and on earth.The brick of deciding destinies lifted the head towards him, “Build his house!,” he ordered him. On Eninnu, whose ‘me’ is very large, he (Ningirsu) directed his (Gudea’s) eye there"
+    ],
+    "line_start": 10,
+    "line_end": 21
+  },
+  {
+    "segment_id": "gudea_003",
+    "text_en": "Human's inability to interpret structure-based (gods') information reveals the necessity of non-human interpreter",
+    "function": "contact",
+    "cognitive_frame": [
+      "ritual_descent"
+    ],
+    "transition_from": "disruption",
+    "transition_to": "return",
+    "markers": [
+      "heart",
+      "distant",
+      "let me",
+      "dream",
+      "bring",
+      "meaning",
+      "visible",
+      "sacrificed",
+      "interpeter"
+    ],
+    "anomaly_type": "sensory",
+    "exchange_channel": "_",
+    "risk_mode": "overload",
+    "outcome_tag": "partial_transfer",
+    "evidence": [
+      "Gudea, his ‘heart’ is distant, counseled about the message: My dream-interpreter may she make its meaning visible for me.. lady-dream-interpreter of the gods..may she place the path for me.. His (Gudea’s) prayer was being heard"
+    ],
+    "line_start": 22,
+    "line_end": 49
+  },
+  {
+    "segment_id": "gudea_004",
+    "text_en": "Gudea organizes special place for the dream in order to get new knowledge or confirmation",
+    "function": "preparation",
+    "cognitive_frame": [
+      "ritual_descent"
+    ],
+    "transition_from": "exchange",
+    "transition_to": "negotiation",
+    "markers": [
+      "celebration",
+      "An",
+      "lady",
+      "mother",
+      "look",
+      "bear",
+      "shiny",
+      "sweet",
+      "life",
+      "stand by my side",
+      "dream-interpreter"
+    ],
+    "anomaly_type": "temporal",
+    "exchange_channel": "_",
+    "risk_mode": "none",
+    "outcome_tag": "partial_transfer",
+    "evidence": [
+      "The governor set up his bed in the house of Gatumdu. He sacrificed bread, he poured out cold water..He sacrificed bread, he poured out cold water. (With) your looking at the people: it is a bountiful wind. You have placed my semen in the inside: you bore me in the cella. I will lay me down here this night, I will go to the city, may my sign be good. May she stand by me in this case"
+    ],
+    "line_start": 50,
+    "line_end": 86
+  },
+  {
+    "segment_id": "gudea_006",
+    "text_en": "The dream occurs two vague figures: a man and a woman",
+    "function": "contact",
+    "cognitive_frame": [
+      "boundary_testing"
+    ],
+    "transition_from": "preparation",
+    "transition_to": "exchange",
+    "markers": [
+      "sacrificy",
+      "moor",
+      "bread",
+      "cold water",
+      "me",
+      "dream",
+      "interpreter",
+      "mother",
+      "heaven",
+      "earth",
+      "according to",
+      "counsel"
+    ],
+    "anomaly_type": "sensory",
+    "exchange_channel": "_",
+    "risk_mode": "overload",
+    "outcome_tag": "misread_signal",
+    "evidence": [
+      "Nanše, large lady, lady of precious, me..Mother, my words, in the day, in the dream. He spoke to me about the building of his house. There was one woman. Who was it, who was it not?"
+    ],
+    "line_start": 87,
+    "line_end": 114
+  },
+  {
+    "segment_id": "gudea_007",
+    "text_en": "A mold that exists or emerge in a dream",
+    "function": "exchange",
+    "cognitive_frame": [
+      "reciprocity"
+    ],
+    "transition_from": "contact",
+    "transition_to": "preparation",
+    "markers": [
+      "basket",
+      "mold",
+      "draw",
+      "plan",
+      "scratch"
+    ],
+    "anomaly_type": "spatial",
+    "exchange_channel": "_",
+    "risk_mode": "none",
+    "outcome_tag": "channel_opened",
+    "evidence": [
+      "he drew the plan of the house. In front of me stood a shiny basket, a shiny mold was made ready, the brick of deciding destinies was placed in the mold for me. A donkey..scratched the earth for me"
+    ],
+    "line_start": 115,
+    "line_end": 123
+  },
+  {
+    "segment_id": "gudea_008",
+    "text_en": "Transmission from noise space to precise human vision of shape",
+    "function": "return",
+    "cognitive_frame": [
+      "reciprocity"
+    ],
+    "transition_from": "negotiation",
+    "transition_to": "stabilization",
+    "markers": [
+      "shrine",
+      "virgin",
+      "horizon",
+      "voice",
+      "brick",
+      "sleep",
+      "choice"
+    ],
+    "anomaly_type": "normative",
+    "exchange_channel": "_",
+    "risk_mode": "coercion",
+    "outcome_tag": "stabilization",
+    "evidence": [
+      "it is surely my brother Ningirsu. Build his shrine, the Eninnu! He ordered you. it is your god Ningešzida, who like the light went up for you on the horizon. The virgin, going up to the top, making a haystack on the earth, That is surely Nisaba, my sister. she poured out her voice for you. it is Nindubba, placing the house on the plan of the house. A donkey ..that is you, scratching the ground for Eninnu like a choice"
+    ],
+    "line_start": 124,
+    "line_end": 151
+  },
+  {
+    "segment_id": "gudea_009",
+    "text_en": "Instructions after interpretation, physical actions, but feels like rituals",
+    "function": "exchange",
+    "cognitive_frame": [
+      "activation_through_attraction"
+    ],
+    "transition_from": "contact",
+    "transition_to": "return",
+    "markers": [
+      "instructions",
+      "seal",
+      "broke",
+      "brought",
+      "prepared",
+      "arrow",
+      "quiver",
+      "name",
+      "harp",
+      "dragon",
+      "word",
+      "reveal"
+    ],
+    "anomaly_type": "sensory",
+    "exchange_channel": "_",
+    "risk_mode": "none",
+    "outcome_tag": "partial_transfer",
+    "evidence": [
+      "after you have fashioned his beloved emblem, after you wrote your name on it, his beloved harp, ‘dragon of the land’, after you entered for him into Eninnu, ‘the white Anzu bird’, with it, he will receive your small word, as if it was a mighty word. he will calm for you. He will reveal the plan of his house to you. his ‘me’ are the greatest, he shall let it grow for you"
+    ],
+    "line_start": 152,
+    "line_end": 193
+  },
+  {
+    "segment_id": "gudea_010",
+    "text_en": "Before the shift like the great building people are needed in physical actions",
+    "function": "preparation",
+    "cognitive_frame": [
+      "caution"
+    ],
+    "transition_from": "exchange",
+    "transition_to": "negotiation",
+    "markers": [
+      "joyfully",
+      "days",
+      "nights",
+      "flattened",
+      "accusations",
+      "fire",
+      "incense",
+      "smoke",
+      "water",
+      "learn",
+      "star"
+    ],
+    "anomaly_type": "spatial",
+    "exchange_channel": "_",
+    "risk_mode": "none",
+    "outcome_tag": "channel_opened",
+    "evidence": [
+      "Joyfully he entered to him in the house.  the pure tree of the mountain he placed on the fire, its smoke he made. your ‘heart’, surging, like the ocean,  I don’t understand its heart, I, what can I learn from you? Gudea, I will surely give you the sign of the building of my house."
+    ],
+    "line_start": 194,
+    "line_end": 231
+  },
+  {
+    "segment_id": "gudea_011",
+    "text_en": "A description of immensity of Ningirsu, structure, flood of Enlil",
+    "function": "contact",
+    "cognitive_frame": [
+      "authority_invocation"
+    ],
+    "transition_from": "disruption",
+    "transition_to": "stabilization",
+    "markers": [
+      "fear",
+      "terrible",
+      "tremble",
+      "bigger",
+      "enormous me",
+      "water",
+      "hero",
+      "no rival",
+      "mountain"
+    ],
+    "anomaly_type": "status",
+    "exchange_channel": "_",
+    "risk_mode": "none",
+    "outcome_tag": "partial_transfer",
+    "evidence": [
+      "My weapon, ‘multitude-eraser’, which places the mountain in the hand, my terrible eye, which the lands cannot sustain, its ‘me’ is bigger than all the other enormous ‘me’ as name he named me."
+    ],
+    "line_start": 232,
+    "line_end": 252
+  },
+  {
+    "segment_id": "gudea_012",
+    "text_en": "Physical act of great festival which derive the feeling of complicity with the universal structure",
+    "function": "contact",
+    "cognitive_frame": [
+      "boundary_testing"
+    ],
+    "transition_from": "preparation",
+    "transition_to": "exchange",
+    "markers": [
+      "offering table",
+      "heaven",
+      "abundance",
+      "sweetness",
+      "greatly",
+      "very large",
+      "festival",
+      "perfected",
+      "poison",
+      "snake"
+    ],
+    "anomaly_type": "sensory",
+    "exchange_channel": "_",
+    "risk_mode": "seduction",
+    "outcome_tag": "channel_opened",
+    "evidence": [
+      "I collected the fifty ‘me’. the things of my hand are sweetness. My father and begetter ate the sweetness, Within it, with (each) moon, on the new moon day, he perfected for me greatly the very large ‘me’, my heavenly festival. when my ‘heart’ has become angry with it, it produces poison for me like a poisonous snake"
+    ],
+    "line_start": 253,
+    "line_end": 276
+  },
+  {
+    "segment_id": "gudea_013",
+    "text_en": "A promise of future abundance",
+    "function": "exchange",
+    "cognitive_frame": [
+      "reciprocity"
+    ],
+    "transition_from": "contact",
+    "transition_to": "return",
+    "markers": [
+      "Eninnu",
+      "gudea",
+      "righteous",
+      "hand",
+      "call",
+      "rain",
+      "bounty",
+      "abundance",
+      "overflow",
+      "submerge",
+      "pour",
+      "weigh",
+      "wind"
+    ],
+    "anomaly_type": "temporal",
+    "exchange_channel": "_",
+    "risk_mode": "none",
+    "outcome_tag": "partial_transfer",
+    "evidence": [
+      "when your righteous hand caries it out, you call the heaven for rain,May people stretch out the hand in bounty with you. With the founding of my house, may abundance arrive.. The canals and the ditches will overflow their banks for you. Mounds that are never submerged, will be submerged for you"
+    ],
+    "line_start": 277,
+    "line_end": 299
+  },
+  {
+    "segment_id": "gudea_014",
+    "text_en": "A perception of life as a flow and a fear that lide is a dream",
+    "function": "disruption",
+    "cognitive_frame": [
+      "trickster"
+    ],
+    "transition_from": "preparation",
+    "transition_to": "negotiation",
+    "markers": [
+      "life",
+      "people",
+      "day",
+      "night",
+      "midday",
+      "midnight",
+      "sign",
+      "afraid",
+      "dream"
+    ],
+    "anomaly_type": "spatial",
+    "exchange_channel": "_",
+    "risk_mode": "deception",
+    "outcome_tag": "misread_signal",
+    "evidence": [
+      "After I have given life to the people, a solitary man will work with another. At midnight the moon goes up for you, at midday the abundance of the sun goes up for you. I will teach you my sign.” Gudea rose, it was a dream. He is afraid, it was a dream"
+    ],
+    "line_start": 300,
+    "line_end": 316
+  },
+  {
+    "segment_id": "gudea_015",
+    "text_en": "Representation of ideal formula of morality for society",
+    "function": "stabilization",
+    "cognitive_frame": [
+      "boundary_testing"
+    ],
+    "transition_from": "contact",
+    "transition_to": "preparation",
+    "markers": [
+      "accusation",
+      "sin",
+      "mother",
+      "son",
+      "slave",
+      "bowed",
+      "solitary",
+      "man"
+    ],
+    "anomaly_type": "normative",
+    "exchange_channel": "_",
+    "risk_mode": "deception",
+    "outcome_tag": "stabilization",
+    "evidence": [
+      "he bowed the head. He learned big, and now he will perform big. The governor, in his city, like a solitary man he regulated the rites. A mother does not accuse a son, accusations, a son to his mother  The slave girl, who a man wickedly made into booty,  her lady did not thrown stuff in her face"
+    ],
+    "line_start": 317,
+    "line_end": 340
+  },
+  {
+    "segment_id": "gudea_016",
+    "text_en": "Establishment of a new order through the ritual and burn of the cedar",
+    "function": "preparation",
+    "cognitive_frame": [
+      "disruption"
+    ],
+    "transition_from": "exchange",
+    "transition_to": "stabilization",
+    "markers": [
+      "fire",
+      "gaze",
+      "box",
+      "mold",
+      "smoke"
+    ],
+    "anomaly_type": "spatial",
+    "exchange_channel": "_",
+    "risk_mode": "coercion",
+    "outcome_tag": "channel_blocked",
+    "evidence": [
+      "The governor cleansed the city, he spun it with fire. An impure, a terrible one, a leper(?), he brought out from the city. He spent the day with offerings and prayers to him. He passed the night greeting him. On that day, the governor arranged a levy in his land, in the totality of all of his lands"
+    ],
+    "line_start": 341,
+    "line_end": 371
+  },
+  {
+    "segment_id": "gudea_017",
+    "text_en": "",
+    "function": "negotiation",
+    "cognitive_frame": [
+      "reciprocity"
+    ],
+    "transition_from": "exchange",
+    "transition_to": "contact",
+    "markers": [
+      "emblem",
+      "levy",
+      "water",
+      "bank",
+      "river",
+      "tribe"
+    ],
+    "anomaly_type": "normative",
+    "exchange_channel": "_",
+    "risk_mode": "coercion",
+    "outcome_tag": "partial_transfer",
+    "evidence": [
+      "the great river with much water, spreading its abundance he made a levy for him. A goat and donkey cord, spread out on the plain, For the construction of Nigirsu’s house, they assembled for Gudea in his city Girsu"
+    ],
+    "line_start": 372,
+    "line_end": 396
+  },
+  {
+    "segment_id": "gudea_018",
+    "text_en": "Transmission from informational field to practical realisation",
+    "function": "contact",
+    "cognitive_frame": [
+      "reciprocity"
+    ],
+    "transition_from": "contact",
+    "transition_to": "exchange",
+    "markers": [
+      "copper",
+      "builder",
+      "approach",
+      "enter",
+      "cedar",
+      "axe",
+      "weapon",
+      "trees",
+      "stone",
+      "gold",
+      "silver",
+      "alabaster"
+    ],
+    "anomaly_type": "spatial",
+    "exchange_channel": "_",
+    "risk_mode": "overload",
+    "outcome_tag": "channel_opened",
+    "evidence": [
+      "To the land of cedar, where no man enters, for Gudea, the Lord Ningirsu made way for him. For the governor, builder of the Eninnu, he raised the hand for big things. Purified silver is being brought down for Gudea from its mountain"
+    ],
+    "line_start": 397,
+    "line_end": 453
+  },
+  {
+    "segment_id": "gudea_019",
+    "text_en": "Synchronization with universal power via Enlil through intensive emotional experience",
+    "function": "contact",
+    "cognitive_frame": [
+      "boundary_testing"
+    ],
+    "transition_from": "exchange",
+    "transition_to": "preparation",
+    "markers": [
+      "concerning",
+      "sleep",
+      "heart",
+      "wisdom",
+      "me",
+      "gaze",
+      "radiance",
+      "war"
+    ],
+    "anomaly_type": "sensory",
+    "exchange_channel": "_",
+    "risk_mode": "overload",
+    "outcome_tag": "channel_opened",
+    "evidence": [
+      "Concerning the building of his king’s house, he does not set his head to sleep during midday. It is him, the man who is in Enlil’s ‘heart’, Nisaba, the house of wisdom, she opened for him. Enki made the plan of the house right for him.. its ‘me’ embraces heaven and earth"
+    ],
+    "line_start": 458,
+    "line_end": 475
+  },
+  {
+    "segment_id": "gudea_020",
+    "text_en": "The process of the emergence leaded by structures (gods) to material creation",
+    "function": "stabilization",
+    "cognitive_frame": [
+      "reciprocity"
+    ],
+    "transition_from": "preparation",
+    "transition_to": "contact",
+    "markers": [
+      "fire",
+      "measure",
+      "morning",
+      "bath",
+      "calm",
+      "fixate",
+      "basket",
+      "mold",
+      "lead",
+      "emerge"
+    ],
+    "anomaly_type": "temporal",
+    "exchange_channel": "_",
+    "risk_mode": "none",
+    "outcome_tag": "stabilization",
+    "evidence": [
+      "The shiny basket, the righteous mold of deciding destinies, he raised to Eninnu. (and) Ningešzida, his god, leads him by the hand. He did ‘asaga’ in the mold. Gudea placed clay in the mold. The cultic order emerged. The emergence of the brick of the house was placed"
+    ],
+    "line_start": 476,
+    "line_end": 508
+  },
+  {
+    "segment_id": "gudea_021",
+    "text_en": "Ceremonial ritual dedicated to mitigate concerning of the future destiny of the brick",
+    "function": "contact",
+    "cognitive_frame": [
+      "reciprocity"
+    ],
+    "transition_from": "preparation",
+    "transition_to": "exchange",
+    "markers": [
+      "mold",
+      "brick",
+      "destiny",
+      "house",
+      "head",
+      "rise",
+      "plan",
+      "counting",
+      "concern"
+    ],
+    "anomaly_type": "normative",
+    "exchange_channel": "_",
+    "risk_mode": "overload",
+    "outcome_tag": "partial_transfer",
+    "evidence": [
+      "He shook the mold, he threw the brick to dry. incense, apples, and resin he smeared on its top. Utu was pleased with it. King Enki decided its destiny for him. it is Nisaba whose ‘heart’ knows counting. he walked to the house in great concern. he is not resting in his walking"
+    ],
+    "line_start": 509,
+    "line_end": 537
+  },
+  {
+    "segment_id": "gudea_022",
+    "text_en": "A dream, word and acycling after mentioning \"me\"",
+    "function": "exchange",
+    "cognitive_frame": [
+      "reciprocity"
+    ],
+    "transition_from": "preparation",
+    "transition_to": "contact",
+    "markers": [
+      "sleep",
+      "Word",
+      "sign",
+      "me",
+      "omen",
+      "blessing",
+      "radiance",
+      "green",
+      "separation",
+      "sky",
+      "attention"
+    ],
+    "anomaly_type": "spatial",
+    "exchange_channel": "_",
+    "risk_mode": "distortion",
+    "outcome_tag": "partial_transfer",
+    "evidence": [
+      "Gudea lying by the top, he slept, the word dawned on him. the separation of Eninnu from heaven and earth, was brought to his attention. He threw the flax, he perfected the me. For the fifth (time) did he not give a blessing in the house? It is the green sky, lifting terrifying radiance"
+    ],
+    "line_start": 538,
+    "line_end": 583
+  },
+  {
+    "segment_id": "gudea_023",
+    "text_en": "Metaphysical perception of building a house",
+    "function": "preparation",
+    "cognitive_frame": [
+      "boundary_testing"
+    ],
+    "transition_from": "stabilization",
+    "transition_to": "negotiation",
+    "markers": [
+      "mountain",
+      "raise",
+      "head",
+      "joy",
+      "dragon",
+      "counsel"
+    ],
+    "anomaly_type": "spatial",
+    "exchange_channel": "_",
+    "risk_mode": "coercion",
+    "outcome_tag": "channel_opened",
+    "evidence": [
+      "The house raised the head to heaven like a mountain in heaven and earth. they place the wood in the house, it is the dragon of Abzu rising in its terror. The governor built the house, he made it grow, he made it grow like a large mountain, he counseled with him there"
+    ],
+    "line_start": 584,
+    "line_end": 615
+  },
+  {
+    "segment_id": "gudea_024",
+    "text_en": "Reenact the creation of the world through the ritual of building and giving names",
+    "function": "stabilization",
+    "cognitive_frame": [
+      "authority_invocation"
+    ],
+    "transition_from": "preparation",
+    "transition_to": "contact",
+    "markers": [
+      "block",
+      "stone",
+      "year",
+      "day",
+      "seventh",
+      "sourtyard",
+      "name",
+      "named"
+    ],
+    "anomaly_type": "spatial",
+    "exchange_channel": "_",
+    "risk_mode": "none",
+    "outcome_tag": "stabilization",
+    "evidence": [
+      "he brought them in a single year, he worked them in a single year, he did not let two, three days pass for them, one each day’s work he erected,  on the seventh day he seized them in the house. as name of that stone he named"
+    ],
+    "line_start": 616,
+    "line_end": 654
+  },
+  {
+    "segment_id": "gudea_025",
+    "text_en": "Emergence is caused by rightousness",
+    "function": "contact",
+    "cognitive_frame": [
+      "reciprocity"
+    ],
+    "transition_from": "_",
+    "transition_to": "stabilization",
+    "markers": [
+      "righteous",
+      "emerge",
+      "name",
+      "together",
+      "heaven",
+      "earth",
+      "admired",
+      "moon",
+      "terror"
+    ],
+    "anomaly_type": "status",
+    "exchange_channel": "_",
+    "risk_mode": "none",
+    "outcome_tag": "partial_transfer",
+    "evidence": [
+      "He build the house of his king with righteousness. The righteous shepherd Gudea made it grow together with heaven and earth. its name until the middle of the mountain he made emerge. ike the new moon standing in heaven,  it is the terror of the x-heaven. it is a lapis mountain firmly moored in heaven and earth"
+    ],
+    "line_start": 655,
+    "line_end": 687
+  },
+  {
+    "segment_id": "gudea_026",
+    "text_en": "Ritualistic entrench of dead warriors",
+    "function": "stabilization",
+    "cognitive_frame": [
+      "caution"
+    ],
+    "transition_from": "activation_through_attraction",
+    "transition_to": "return",
+    "markers": [
+      "honney",
+      "wine",
+      "heaven",
+      "fruit",
+      "learned",
+      "perform",
+      "dead",
+      "warriors"
+    ],
+    "anomaly_type": "normative",
+    "exchange_channel": "_",
+    "risk_mode": "none",
+    "outcome_tag": "channel_blocked",
+    "evidence": [
+      "They prepare the meal in the great sanctuary, it is gold bowls filled with honney and wine, it is the ‘heart’ of the gods, returned to its banks. The righteous shepherd Gudea has learned big (things), and he will perform big (things).  Because they are dead warriors, he placed their mouths at the libation place, and their names, in the midst of the gods, made them emerge"
+    ],
+    "line_start": 688,
+    "line_end": 721
+  },
+  {
+    "segment_id": "gudea_027",
+    "text_en": "Mirroring an existing object with its compressed cultural version in order to evoke a resonance",
+    "function": "contact",
+    "cognitive_frame": [
+      "reciprocity"
+    ],
+    "transition_from": "stabilization",
+    "transition_to": "exchange",
+    "markers": [
+      "doors",
+      "lock",
+      "pivots",
+      "lintels",
+      "nail",
+      "liom",
+      "lioness",
+      "dragon",
+      "snake",
+      "song"
+    ],
+    "anomaly_type": "sensory",
+    "exchange_channel": "_",
+    "risk_mode": "none",
+    "outcome_tag": "partial_transfer",
+    "evidence": [
+      "The cedar doors standing in the house, it is Iškur roaring from heaven. The lintels leaning on the door, it is a young lioness, whose young ones rest on its paws.  The face of the house is a large mountain leaning on earth, its inside is a polyphonic song"
+    ],
+    "line_start": 722,
+    "line_end": 753
+  },
+  {
+    "segment_id": "gudea_028",
+    "text_en": "Material embodiments entrench abstract representation of the joyfulness (ideal version of life and death)",
+    "function": "stabilization",
+    "cognitive_frame": [
+      "reciprocity"
+    ],
+    "transition_from": "contact",
+    "transition_to": "exchange",
+    "markers": [
+      "oil",
+      "milk",
+      "cake",
+      "oxen",
+      "sheep",
+      "wine",
+      "brewery",
+      "treasury",
+      "funerary",
+      "never lacking",
+      "abundance",
+      "fectival"
+    ],
+    "anomaly_type": "sensory",
+    "exchange_channel": "_",
+    "risk_mode": "none",
+    "outcome_tag": "channel_opened",
+    "evidence": [
+      "Gudea, in the brilliance of heaven, decorated it. From the cow pen, oil deliveries, milk deliveries, From the mighty oven, large cakes, large croissants(!?). it is a shade of large leaves, a sweet shadow. it is a mountain sleeping in full flowering. it is the Ekur of Enlil in a festival. he house (was) built in joy by its king. clad in joy, -standing to be admired"
+    ],
+    "line_start": 754,
+    "line_end": 814
+  }
+]
+}
