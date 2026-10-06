@@ -21,7 +21,7 @@ What we found:
 - So a record of one reader over time shows something that a single label,
   or a vote of many people, cannot show.
 
-This repo has the paper ([PDF](paper/Shvets2026_boundaries_labels.pdf)) and all its data and code.
+This repo has the paper ([arXiv:2610.04370](https://arxiv.org/abs/2610.04370), [PDF](paper/Shvets2026_boundaries_labels.pdf)) and all its data and code.
 One command runs everything and checks every number against the paper.
 
 ## Quick start
@@ -255,14 +255,17 @@ The texts are shared for academic research only.
 
 ## Citation
 
-Marharyta Shvets. *Boundaries Agree, Labels Do Not: Intra-Annotator Dynamics as a Kind of Training Data.* Preprint, 2026.
-PDF: [`paper/Shvets2026_boundaries_labels.pdf`](paper/Shvets2026_boundaries_labels.pdf). (The arXiv link will be added here.)
+Marharyta Shvets. *Boundaries Agree, Labels Do Not: Intra-Annotator Dynamics as a Kind of Training Data.* arXiv:2610.04370, 2026. https://arxiv.org/abs/2610.04370
+PDF: [`paper/Shvets2026_boundaries_labels.pdf`](paper/Shvets2026_boundaries_labels.pdf).
 
 ```bibtex
 @misc{shvets2026boundaries,
-  author = {Shvets, Marharyta},
-  title  = {Boundaries Agree, Labels Do Not: Intra-Annotator Dynamics as a Kind of Training Data},
-  year   = {2026},
-  note   = {Preprint}
+  author        = {Shvets, Marharyta},
+  title         = {Boundaries Agree, Labels Do Not: Intra-Annotator Dynamics as a Kind of Training Data},
+  year          = {2026},
+  eprint        = {2610.04370},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CL},
+  url           = {https://arxiv.org/abs/2610.04370}
 }
 ```
